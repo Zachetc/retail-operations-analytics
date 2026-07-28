@@ -95,3 +95,18 @@ outputs/           Example analytical outputs
 ## Portfolio Value
 
 This project demonstrates the workflow of a data analyst working from raw operational data through relational modeling, SQL analysis, quality validation, and executive BI reporting.
+
+
+## Interactive Dashboard Workbook
+
+Open `dashboards/Retail_Operations_Analytics_Dashboard.xlsx` in Microsoft Excel.
+
+The workbook includes five reporting pages:
+
+- Executive Dashboard
+- Sales & Profitability
+- Inventory Operations
+- Customer Analytics
+- Supplier & Delivery Performance
+
+PNG previews are included in the same folder for quick review directly on GitHub.
