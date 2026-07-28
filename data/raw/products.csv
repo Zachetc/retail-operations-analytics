@@ -1,0 +1,181 @@
+product_id,product_name,category,subcategory,supplier_id,unit_cost,list_price,product_status
+1,Accessories Product 001,Electronics,Accessories,12,141.66,255.66,Discontinued
+2,Monitors Product 002,Electronics,Monitors,11,99.04,124.02,Active
+3,Accessories Product 003,Electronics,Accessories,5,123.71,240.21,Active
+4,Monitors Product 004,Electronics,Monitors,10,149.53,203.36,Discontinued
+5,Audio Product 005,Electronics,Audio,14,184.4,381.79,Discontinued
+6,Monitors Product 006,Electronics,Monitors,4,38.57,55.86,Active
+7,Accessories Product 007,Electronics,Accessories,8,143.54,251.07,Active
+8,Monitors Product 008,Electronics,Monitors,4,44.34,84.87,Active
+9,Monitors Product 009,Electronics,Monitors,16,131.07,192.95,Discontinued
+10,Laptops Product 010,Electronics,Laptops,1,215.77,485.93,Discontinued
+11,Laptops Product 011,Electronics,Laptops,21,127.54,238.32,Active
+12,Accessories Product 012,Electronics,Accessories,21,161.29,243.95,Active
+13,Accessories Product 013,Electronics,Accessories,12,27.43,59.74,Active
+14,Accessories Product 014,Electronics,Accessories,5,59.28,129.49,Active
+15,Laptops Product 015,Electronics,Laptops,19,192.14,251.33,Active
+16,Monitors Product 016,Electronics,Monitors,3,59.97,132.45,Active
+17,Audio Product 017,Electronics,Audio,6,58.83,93.84,Discontinued
+18,Monitors Product 018,Electronics,Monitors,12,57.17,129.21,Discontinued
+19,Laptops Product 019,Electronics,Laptops,8,190.62,263.36,Active
+20,Audio Product 020,Electronics,Audio,23,110.42,140.95,Active
+21,Monitors Product 021,Electronics,Monitors,12,12.88,27.31,Discontinued
+22,Audio Product 022,Electronics,Audio,8,72.18,96.26,Discontinued
+23,Audio Product 023,Electronics,Audio,19,170.25,375.48,Discontinued
+24,Accessories Product 024,Electronics,Accessories,6,183.01,419.37,Discontinued
+25,Monitors Product 025,Electronics,Monitors,22,15.56,23.31,Active
+26,Laptops Product 026,Electronics,Laptops,3,152.27,347.8,Discontinued
+27,Laptops Product 027,Electronics,Laptops,1,60.66,109.88,Active
+28,Monitors Product 028,Electronics,Monitors,16,180.84,407.97,Discontinued
+29,Monitors Product 029,Electronics,Monitors,5,143.16,287.07,Active
+30,Laptops Product 030,Electronics,Laptops,13,99.95,162.29,Active
+31,Accessories Product 031,Electronics,Accessories,3,32.56,65.8,Active
+32,Laptops Product 032,Electronics,Laptops,10,70.73,132.81,Active
+33,Laptops Product 033,Electronics,Laptops,3,162.19,215.45,Active
+34,Laptops Product 034,Electronics,Laptops,24,202.07,416.37,Discontinued
+35,Audio Product 035,Electronics,Audio,4,30.33,54.1,Discontinued
+36,Audio Product 036,Electronics,Audio,13,27.94,64.66,Discontinued
+37,Furniture Product 037,Home,Furniture,11,108.25,223.95,Discontinued
+38,Decor Product 038,Home,Decor,17,167.39,262.9,Active
+39,Kitchen Product 039,Home,Kitchen,21,101.53,228.95,Active
+40,Furniture Product 040,Home,Furniture,15,88.8,173.25,Active
+41,Furniture Product 041,Home,Furniture,20,116.64,202.86,Active
+42,Furniture Product 042,Home,Furniture,4,125.58,217.09,Active
+43,Decor Product 043,Home,Decor,22,201.86,322.61,Discontinued
+44,Kitchen Product 044,Home,Kitchen,4,203.69,280.19,Active
+45,Kitchen Product 045,Home,Kitchen,13,83.28,180.57,Active
+46,Kitchen Product 046,Home,Kitchen,1,37.49,56.45,Active
+47,Kitchen Product 047,Home,Kitchen,18,46.81,86.38,Active
+48,Cleaning Product 048,Home,Cleaning,14,99.84,192.08,Active
+49,Kitchen Product 049,Home,Kitchen,19,164.57,224.18,Discontinued
+50,Cleaning Product 050,Home,Cleaning,20,17.56,24.21,Discontinued
+51,Kitchen Product 051,Home,Kitchen,19,154.12,296.8,Active
+52,Decor Product 052,Home,Decor,10,45.13,79.1,Active
+53,Decor Product 053,Home,Decor,19,74.95,141.13,Active
+54,Kitchen Product 054,Home,Kitchen,17,111.59,168.86,Active
+55,Cleaning Product 055,Home,Cleaning,17,183.99,291.62,Active
+56,Cleaning Product 056,Home,Cleaning,8,93.63,213.15,Active
+57,Furniture Product 057,Home,Furniture,14,207.8,321.21,Active
+58,Furniture Product 058,Home,Furniture,18,144.25,314.63,Active
+59,Kitchen Product 059,Home,Kitchen,9,190.61,276.72,Active
+60,Furniture Product 060,Home,Furniture,13,104.45,216.28,Active
+61,Cleaning Product 061,Home,Cleaning,22,177.23,259.13,Discontinued
+62,Kitchen Product 062,Home,Kitchen,7,210.98,358.85,Discontinued
+63,Furniture Product 063,Home,Furniture,12,148.31,281.2,Active
+64,Decor Product 064,Home,Decor,22,127.45,234.86,Active
+65,Decor Product 065,Home,Decor,5,212.45,455.5,Discontinued
+66,Kitchen Product 066,Home,Kitchen,3,56.74,119.39,Active
+67,Cleaning Product 067,Home,Cleaning,9,196.8,349.93,Active
+68,Cleaning Product 068,Home,Cleaning,20,84.22,182.65,Active
+69,Furniture Product 069,Home,Furniture,6,24.05,54.74,Active
+70,Decor Product 070,Home,Decor,11,190.94,353.87,Active
+71,Furniture Product 071,Home,Furniture,11,213.62,337.92,Active
+72,Cleaning Product 072,Home,Cleaning,7,89.89,113.61,Discontinued
+73,Women Product 073,Apparel,Women,13,105.26,184.91,Discontinued
+74,Men Product 074,Apparel,Men,4,211.48,319.9,Active
+75,Women Product 075,Apparel,Women,1,132.61,236.22,Discontinued
+76,Men Product 076,Apparel,Men,8,101.41,151.59,Active
+77,Footwear Product 077,Apparel,Footwear,19,217.73,494.18,Active
+78,Men Product 078,Apparel,Men,21,157.87,344.32,Discontinued
+79,Women Product 079,Apparel,Women,13,38.19,71.44,Active
+80,Footwear Product 080,Apparel,Footwear,13,39.56,53.54,Active
+81,Accessories Product 081,Apparel,Accessories,7,179.68,341.71,Active
+82,Men Product 082,Apparel,Men,17,84.79,115.94,Active
+83,Footwear Product 083,Apparel,Footwear,23,164.88,384.93,Active
+84,Footwear Product 084,Apparel,Footwear,14,172.24,303.53,Discontinued
+85,Accessories Product 085,Apparel,Accessories,19,73.31,100.89,Active
+86,Men Product 086,Apparel,Men,8,164.72,334.24,Active
+87,Women Product 087,Apparel,Women,5,49.95,100.78,Active
+88,Footwear Product 088,Apparel,Footwear,24,100.81,217.96,Active
+89,Men Product 089,Apparel,Men,6,100.89,133.92,Active
+90,Men Product 090,Apparel,Men,16,164.8,301.55,Active
+91,Accessories Product 091,Apparel,Accessories,8,187.7,402.94,Discontinued
+92,Women Product 092,Apparel,Women,11,70.54,128.04,Discontinued
+93,Men Product 093,Apparel,Men,21,194.67,245.43,Active
+94,Accessories Product 094,Apparel,Accessories,7,52.63,125.51,Active
+95,Men Product 095,Apparel,Men,2,188.45,421.66,Discontinued
+96,Accessories Product 096,Apparel,Accessories,12,184.94,355.78,Active
+97,Men Product 097,Apparel,Men,13,140.03,240.96,Active
+98,Accessories Product 098,Apparel,Accessories,18,118.3,161.98,Active
+99,Accessories Product 099,Apparel,Accessories,22,26.97,56.4,Active
+100,Men Product 100,Apparel,Men,24,133.82,301.32,Active
+101,Men Product 101,Apparel,Men,20,193.88,390.62,Active
+102,Men Product 102,Apparel,Men,16,197.45,303.01,Discontinued
+103,Accessories Product 103,Apparel,Accessories,4,68.63,145.87,Active
+104,Footwear Product 104,Apparel,Footwear,10,121.75,282.17,Discontinued
+105,Men Product 105,Apparel,Men,14,103.89,195.84,Active
+106,Accessories Product 106,Apparel,Accessories,10,141.36,263.41,Active
+107,Men Product 107,Apparel,Men,5,73.88,166.81,Active
+108,Women Product 108,Apparel,Women,1,200.73,288.94,Active
+109,Outdoor Product 109,Sports,Outdoor,24,86.96,131.34,Active
+110,Outdoor Product 110,Sports,Outdoor,4,58.15,107.2,Discontinued
+111,Team Sports Product 111,Sports,Team Sports,5,177.73,257.93,Active
+112,Team Sports Product 112,Sports,Team Sports,1,118.49,256.59,Active
+113,Fitness Product 113,Sports,Fitness,6,185.24,231.75,Active
+114,Team Sports Product 114,Sports,Team Sports,11,20.29,34.22,Active
+115,Fitness Product 115,Sports,Fitness,19,193.81,432.43,Discontinued
+116,Outdoor Product 116,Sports,Outdoor,16,181.4,397.97,Active
+117,Outdoor Product 117,Sports,Outdoor,10,54.26,67.89,Active
+118,Fitness Product 118,Sports,Fitness,6,171.23,338.83,Active
+119,Outdoor Product 119,Sports,Outdoor,6,72.41,147.43,Active
+120,Cycling Product 120,Sports,Cycling,9,178.25,346.8,Active
+121,Outdoor Product 121,Sports,Outdoor,20,189.8,431.34,Active
+122,Fitness Product 122,Sports,Fitness,22,192.72,285.6,Active
+123,Fitness Product 123,Sports,Fitness,10,74.45,156.48,Discontinued
+124,Outdoor Product 124,Sports,Outdoor,15,27.9,46.07,Active
+125,Outdoor Product 125,Sports,Outdoor,7,20.78,43.97,Active
+126,Cycling Product 126,Sports,Cycling,3,32.03,56.75,Active
+127,Cycling Product 127,Sports,Cycling,21,101.66,130.71,Active
+128,Outdoor Product 128,Sports,Outdoor,8,131.36,230.01,Active
+129,Cycling Product 129,Sports,Cycling,18,82.86,184.63,Discontinued
+130,Fitness Product 130,Sports,Fitness,10,95.0,150.65,Active
+131,Outdoor Product 131,Sports,Outdoor,14,74.95,118.03,Discontinued
+132,Team Sports Product 132,Sports,Team Sports,13,138.84,187.85,Active
+133,Cycling Product 133,Sports,Cycling,3,126.87,284.43,Active
+134,Cycling Product 134,Sports,Cycling,9,89.94,136.39,Active
+135,Cycling Product 135,Sports,Cycling,7,217.99,393.12,Discontinued
+136,Team Sports Product 136,Sports,Team Sports,13,142.88,270.14,Active
+137,Cycling Product 137,Sports,Cycling,22,38.54,66.35,Active
+138,Team Sports Product 138,Sports,Team Sports,11,100.89,180.43,Discontinued
+139,Outdoor Product 139,Sports,Outdoor,6,203.03,403.28,Active
+140,Cycling Product 140,Sports,Cycling,23,218.04,278.82,Discontinued
+141,Team Sports Product 141,Sports,Team Sports,7,96.82,123.27,Discontinued
+142,Outdoor Product 142,Sports,Outdoor,23,177.02,370.07,Active
+143,Outdoor Product 143,Sports,Outdoor,10,85.67,147.94,Discontinued
+144,Cycling Product 144,Sports,Cycling,12,88.67,133.86,Active
+145,Skincare Product 145,Beauty,Skincare,19,166.1,352.81,Discontinued
+146,Fragrance Product 146,Beauty,Fragrance,19,94.89,137.36,Discontinued
+147,Fragrance Product 147,Beauty,Fragrance,9,87.89,210.88,Discontinued
+148,Skincare Product 148,Beauty,Skincare,16,126.06,187.58,Active
+149,Haircare Product 149,Beauty,Haircare,2,79.35,170.59,Active
+150,Haircare Product 150,Beauty,Haircare,16,172.76,303.69,Discontinued
+151,Skincare Product 151,Beauty,Skincare,2,162.37,235.23,Active
+152,Skincare Product 152,Beauty,Skincare,13,37.86,70.3,Active
+153,Fragrance Product 153,Beauty,Fragrance,3,35.45,57.55,Discontinued
+154,Haircare Product 154,Beauty,Haircare,4,14.43,26.12,Active
+155,Personal Care Product 155,Beauty,Personal Care,21,161.28,270.47,Active
+156,Fragrance Product 156,Beauty,Fragrance,6,105.56,151.29,Discontinued
+157,Fragrance Product 157,Beauty,Fragrance,5,133.11,266.51,Discontinued
+158,Skincare Product 158,Beauty,Skincare,7,70.29,117.17,Active
+159,Haircare Product 159,Beauty,Haircare,21,178.95,337.88,Discontinued
+160,Haircare Product 160,Beauty,Haircare,20,186.27,235.6,Discontinued
+161,Personal Care Product 161,Beauty,Personal Care,21,159.55,254.76,Active
+162,Haircare Product 162,Beauty,Haircare,10,49.81,98.56,Discontinued
+163,Fragrance Product 163,Beauty,Fragrance,23,216.91,365.58,Active
+164,Skincare Product 164,Beauty,Skincare,19,122.23,207.37,Active
+165,Personal Care Product 165,Beauty,Personal Care,7,98.59,196.79,Active
+166,Personal Care Product 166,Beauty,Personal Care,2,105.96,240.75,Active
+167,Personal Care Product 167,Beauty,Personal Care,1,154.46,244.97,Active
+168,Personal Care Product 168,Beauty,Personal Care,24,139.19,309.41,Active
+169,Personal Care Product 169,Beauty,Personal Care,20,44.52,102.13,Active
+170,Personal Care Product 170,Beauty,Personal Care,11,9.82,15.63,Active
+171,Haircare Product 171,Beauty,Haircare,6,94.0,148.35,Active
+172,Haircare Product 172,Beauty,Haircare,4,70.23,149.18,Discontinued
+173,Fragrance Product 173,Beauty,Fragrance,21,195.08,454.37,Active
+174,Fragrance Product 174,Beauty,Fragrance,9,146.54,346.84,Active
+175,Haircare Product 175,Beauty,Haircare,11,54.33,116.61,Discontinued
+176,Fragrance Product 176,Beauty,Fragrance,11,10.14,22.42,Active
+177,Fragrance Product 177,Beauty,Fragrance,1,115.27,270.54,Active
+178,Haircare Product 178,Beauty,Haircare,12,30.09,50.32,Active
+179,Haircare Product 179,Beauty,Haircare,14,58.77,112.55,Discontinued
+180,Personal Care Product 180,Beauty,Personal Care,10,83.71,154.44,Active

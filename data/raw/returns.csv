@@ -1,0 +1,579 @@
+return_id,order_id,product_id,quantity_returned,return_date,return_reason,return_status
+1,927,81,3,2024-05-03,Wrong Item,Exchanged
+2,5099,91,1,2024-07-20,Changed Mind,Refunded
+3,5571,21,1,2024-08-23,Late Delivery,Exchanged
+4,777,48,1,2025-08-15,Late Delivery,Refunded
+5,5931,137,1,2025-06-05,Defective,Refunded
+6,5043,8,1,2024-03-26,Changed Mind,Exchanged
+7,2742,128,1,2025-11-26,Changed Mind,Exchanged
+8,1397,3,2,2025-11-30,Damaged,Refunded
+9,2971,30,2,2024-05-03,Defective,Exchanged
+10,1516,80,3,2024-09-09,Changed Mind,Exchanged
+11,635,131,2,2024-11-19,Changed Mind,Refunded
+12,1447,87,1,2025-01-24,Wrong Item,Exchanged
+13,5840,171,1,2024-07-09,Defective,Refunded
+14,4615,60,3,2024-06-10,Defective,Refunded
+15,4636,29,2,2025-11-14,Defective,Refunded
+16,5566,43,2,2026-01-23,Wrong Item,Refunded
+17,564,70,3,2024-08-05,Defective,Refunded
+18,3653,140,2,2024-11-30,Defective,Exchanged
+19,3698,157,1,2025-08-29,Defective,Exchanged
+20,538,22,3,2025-09-06,Damaged,Refunded
+21,716,177,1,2024-07-09,Late Delivery,Refunded
+22,4184,40,2,2024-01-31,Defective,Exchanged
+23,4304,81,1,2024-12-20,Damaged,Refunded
+24,2372,144,3,2025-11-25,Damaged,Refunded
+25,1466,135,2,2025-12-14,Defective,Refunded
+26,2426,134,3,2025-02-09,Wrong Item,Exchanged
+27,1505,94,1,2024-06-28,Wrong Item,Refunded
+28,242,4,3,2024-05-27,Defective,Exchanged
+29,5913,64,2,2025-04-18,Changed Mind,Refunded
+30,3981,120,1,2025-07-01,Damaged,Refunded
+31,963,11,2,2025-10-20,Wrong Item,Refunded
+32,5249,159,1,2025-06-08,Wrong Item,Refunded
+33,5007,180,2,2024-11-28,Changed Mind,Refunded
+34,241,154,1,2025-12-29,Defective,Refunded
+35,5789,16,1,2025-02-28,Defective,Exchanged
+36,5574,48,1,2025-10-20,Changed Mind,Refunded
+37,2984,33,1,2025-04-14,Changed Mind,Refunded
+38,386,153,2,2024-04-22,Late Delivery,Refunded
+39,1133,47,1,2024-11-09,Damaged,Refunded
+40,5304,142,1,2025-12-05,Damaged,Refunded
+41,5315,124,2,2025-10-12,Changed Mind,Refunded
+42,1790,45,1,2025-06-02,Late Delivery,Refunded
+43,204,164,4,2026-01-31,Defective,Refunded
+44,3205,129,3,2025-10-03,Damaged,Refunded
+45,187,101,3,2025-02-17,Defective,Refunded
+46,2866,161,2,2025-10-03,Wrong Item,Exchanged
+47,2797,44,1,2024-12-31,Wrong Item,Exchanged
+48,2671,15,1,2024-01-25,Damaged,Refunded
+49,234,137,1,2025-12-25,Changed Mind,Refunded
+50,3656,142,1,2024-09-15,Changed Mind,Refunded
+51,4553,176,3,2025-03-12,Defective,Exchanged
+52,4158,2,1,2025-10-28,Late Delivery,Exchanged
+53,286,24,2,2024-08-22,Late Delivery,Refunded
+54,4017,166,1,2025-08-08,Wrong Item,Refunded
+55,1266,152,1,2025-12-03,Damaged,Refunded
+56,1132,119,3,2025-01-05,Defective,Refunded
+57,3043,126,2,2025-04-11,Wrong Item,Refunded
+58,5074,117,1,2025-08-11,Defective,Exchanged
+59,4611,11,3,2025-06-28,Changed Mind,Refunded
+60,5819,116,3,2025-03-05,Wrong Item,Refunded
+61,98,106,3,2025-07-13,Wrong Item,Refunded
+62,4470,85,1,2024-04-17,Late Delivery,Refunded
+63,1708,136,3,2025-06-09,Wrong Item,Refunded
+64,5845,4,2,2024-10-01,Changed Mind,Refunded
+65,5265,152,4,2024-03-25,Defective,Refunded
+66,1153,168,1,2025-12-03,Changed Mind,Refunded
+67,5598,37,1,2024-05-20,Damaged,Exchanged
+68,2286,177,1,2024-03-30,Changed Mind,Refunded
+69,2209,75,3,2024-11-30,Changed Mind,Exchanged
+70,3930,36,4,2025-07-20,Changed Mind,Refunded
+71,1407,47,1,2024-09-14,Damaged,Refunded
+72,810,117,4,2024-12-13,Wrong Item,Refunded
+73,3201,139,1,2024-08-03,Damaged,Exchanged
+74,3779,10,1,2024-07-06,Late Delivery,Refunded
+75,2236,53,1,2025-12-19,Damaged,Refunded
+76,2952,116,1,2025-07-17,Damaged,Exchanged
+77,3434,129,1,2025-11-02,Changed Mind,Refunded
+78,3007,18,2,2024-06-10,Defective,Exchanged
+79,2881,140,1,2025-04-09,Damaged,Refunded
+80,3664,111,2,2024-11-21,Defective,Refunded
+81,1435,9,1,2024-03-13,Defective,Exchanged
+82,3040,107,2,2025-12-01,Late Delivery,Refunded
+83,931,122,1,2024-04-01,Damaged,Exchanged
+84,5709,19,1,2024-08-09,Late Delivery,Exchanged
+85,5776,169,1,2024-02-07,Changed Mind,Exchanged
+86,884,150,2,2024-10-30,Defective,Refunded
+87,2704,128,4,2025-07-30,Damaged,Exchanged
+88,4241,71,2,2025-11-27,Changed Mind,Refunded
+89,5911,149,1,2025-09-06,Late Delivery,Refunded
+90,2130,147,4,2026-01-17,Late Delivery,Refunded
+91,4899,101,2,2025-04-27,Wrong Item,Exchanged
+92,2787,44,1,2025-10-25,Wrong Item,Refunded
+93,5256,63,2,2025-08-07,Late Delivery,Exchanged
+94,5863,126,1,2025-06-20,Late Delivery,Refunded
+95,4663,175,3,2024-08-23,Damaged,Refunded
+96,2212,3,2,2025-06-24,Late Delivery,Refunded
+97,5980,122,1,2025-07-08,Late Delivery,Exchanged
+98,4327,108,3,2024-09-24,Wrong Item,Refunded
+99,2176,124,1,2025-01-17,Wrong Item,Refunded
+100,5324,133,1,2024-10-29,Defective,Refunded
+101,2473,46,1,2025-12-24,Defective,Refunded
+102,654,163,1,2025-01-04,Damaged,Refunded
+103,4059,84,1,2024-07-23,Wrong Item,Refunded
+104,2034,144,1,2024-04-15,Defective,Exchanged
+105,1843,153,3,2025-10-27,Wrong Item,Refunded
+106,2860,28,4,2024-07-25,Defective,Refunded
+107,4403,23,2,2025-03-15,Late Delivery,Refunded
+108,710,83,3,2025-01-15,Changed Mind,Refunded
+109,2800,46,2,2025-04-22,Changed Mind,Exchanged
+110,4138,162,1,2025-04-24,Late Delivery,Exchanged
+111,267,20,1,2025-08-28,Damaged,Refunded
+112,4853,139,2,2024-06-09,Defective,Refunded
+113,5369,95,2,2024-08-15,Defective,Exchanged
+114,3463,97,3,2026-02-06,Wrong Item,Exchanged
+115,4172,148,3,2025-02-01,Damaged,Exchanged
+116,2574,60,1,2025-11-24,Late Delivery,Refunded
+117,1740,127,1,2025-11-28,Defective,Refunded
+118,524,149,1,2025-09-14,Changed Mind,Refunded
+119,5150,93,1,2024-07-16,Defective,Refunded
+120,2902,37,2,2024-08-18,Defective,Refunded
+121,4940,180,1,2025-12-09,Wrong Item,Exchanged
+122,5391,164,1,2024-01-19,Wrong Item,Refunded
+123,5722,165,1,2024-01-14,Changed Mind,Refunded
+124,3100,150,2,2024-08-16,Damaged,Exchanged
+125,2849,57,2,2025-07-08,Changed Mind,Exchanged
+126,1227,60,1,2025-04-07,Damaged,Exchanged
+127,1149,64,1,2025-11-07,Defective,Exchanged
+128,1243,179,2,2024-05-14,Damaged,Refunded
+129,993,161,1,2026-01-19,Wrong Item,Refunded
+130,1322,172,3,2025-11-27,Defective,Refunded
+131,490,61,1,2024-11-13,Wrong Item,Exchanged
+132,3211,101,2,2024-02-18,Late Delivery,Refunded
+133,5140,154,3,2025-02-14,Damaged,Refunded
+134,4126,168,2,2025-04-26,Wrong Item,Refunded
+135,2143,114,2,2025-06-17,Wrong Item,Refunded
+136,3778,24,2,2024-05-02,Late Delivery,Refunded
+137,1252,91,1,2024-07-05,Damaged,Refunded
+138,263,48,2,2025-10-02,Defective,Refunded
+139,2623,49,3,2025-08-22,Changed Mind,Exchanged
+140,1491,17,2,2024-01-22,Defective,Exchanged
+141,1944,87,1,2025-09-18,Wrong Item,Refunded
+142,807,132,1,2025-01-31,Defective,Refunded
+143,4217,30,1,2026-01-19,Wrong Item,Refunded
+144,2169,87,2,2025-01-28,Defective,Refunded
+145,5436,71,1,2024-12-11,Damaged,Refunded
+146,1675,121,2,2024-10-02,Defective,Exchanged
+147,3357,4,1,2024-03-05,Late Delivery,Refunded
+148,1852,147,3,2024-11-01,Damaged,Refunded
+149,1985,139,1,2025-01-20,Damaged,Exchanged
+150,233,110,2,2025-10-21,Wrong Item,Refunded
+151,719,18,3,2024-02-16,Defective,Exchanged
+152,468,61,1,2025-08-31,Changed Mind,Exchanged
+153,571,72,2,2024-09-29,Defective,Refunded
+154,1353,107,2,2024-07-21,Defective,Refunded
+155,4943,64,2,2024-10-31,Changed Mind,Refunded
+156,1413,61,2,2024-08-16,Wrong Item,Refunded
+157,5721,158,2,2025-05-14,Changed Mind,Exchanged
+158,949,91,3,2025-06-16,Defective,Exchanged
+159,5646,122,1,2025-12-16,Changed Mind,Exchanged
+160,3917,73,1,2024-05-15,Damaged,Refunded
+161,1674,98,3,2025-09-20,Wrong Item,Refunded
+162,5747,178,2,2025-04-25,Damaged,Refunded
+163,1983,129,1,2024-03-10,Late Delivery,Refunded
+164,1619,87,1,2024-05-27,Late Delivery,Refunded
+165,4277,130,1,2025-02-20,Late Delivery,Exchanged
+166,1014,174,1,2026-01-11,Damaged,Refunded
+167,4073,85,3,2025-10-05,Damaged,Exchanged
+168,5439,82,1,2024-04-07,Defective,Refunded
+169,5050,110,2,2025-04-08,Defective,Exchanged
+170,4412,161,1,2025-04-10,Late Delivery,Exchanged
+171,5396,36,1,2025-06-16,Changed Mind,Refunded
+172,5945,12,2,2025-08-30,Changed Mind,Refunded
+173,1804,4,2,2025-09-10,Damaged,Exchanged
+174,844,22,1,2024-05-04,Defective,Refunded
+175,2160,84,4,2024-05-13,Wrong Item,Refunded
+176,3707,136,3,2026-01-10,Damaged,Refunded
+177,5524,30,1,2024-05-26,Defective,Refunded
+178,3769,51,1,2024-08-21,Wrong Item,Refunded
+179,1544,62,1,2024-06-26,Wrong Item,Refunded
+180,5703,156,1,2025-04-17,Late Delivery,Refunded
+181,1910,128,2,2025-11-30,Late Delivery,Refunded
+182,3249,59,2,2024-08-05,Wrong Item,Refunded
+183,2177,18,1,2025-07-14,Damaged,Refunded
+184,5656,153,1,2024-02-09,Changed Mind,Refunded
+185,5121,161,1,2025-06-29,Wrong Item,Exchanged
+186,5216,126,2,2025-09-21,Damaged,Exchanged
+187,5965,171,2,2025-12-25,Damaged,Refunded
+188,5093,71,3,2024-01-25,Defective,Refunded
+189,3875,163,2,2025-02-14,Defective,Refunded
+190,2409,33,1,2025-11-14,Changed Mind,Refunded
+191,2806,39,2,2025-04-27,Late Delivery,Exchanged
+192,3797,147,1,2024-09-19,Late Delivery,Exchanged
+193,5269,179,3,2025-06-14,Wrong Item,Refunded
+194,5064,99,1,2025-06-08,Wrong Item,Exchanged
+195,1762,8,1,2025-02-08,Late Delivery,Exchanged
+196,2871,104,4,2024-08-27,Late Delivery,Refunded
+197,5772,44,2,2026-01-05,Damaged,Exchanged
+198,6,127,2,2026-01-08,Changed Mind,Refunded
+199,5959,131,2,2025-10-07,Damaged,Exchanged
+200,4993,13,3,2026-01-14,Late Delivery,Refunded
+201,5477,29,2,2024-04-08,Damaged,Refunded
+202,413,4,2,2025-12-17,Wrong Item,Refunded
+203,3624,11,2,2024-02-19,Damaged,Exchanged
+204,3889,103,3,2025-05-12,Wrong Item,Refunded
+205,804,180,1,2025-08-29,Changed Mind,Exchanged
+206,5175,94,2,2024-08-17,Late Delivery,Refunded
+207,2066,63,1,2024-09-10,Damaged,Exchanged
+208,1718,143,1,2024-10-01,Defective,Exchanged
+209,2966,44,2,2025-10-01,Defective,Exchanged
+210,5070,79,2,2024-02-11,Damaged,Refunded
+211,711,110,2,2025-12-14,Defective,Refunded
+212,1279,117,2,2024-01-20,Damaged,Refunded
+213,2140,51,1,2024-08-27,Defective,Refunded
+214,2280,53,1,2024-09-16,Damaged,Refunded
+215,3218,141,3,2025-08-07,Changed Mind,Refunded
+216,4630,123,3,2024-09-17,Late Delivery,Exchanged
+217,5509,7,1,2025-03-27,Changed Mind,Exchanged
+218,3266,34,1,2025-04-18,Wrong Item,Refunded
+219,3464,115,2,2024-08-30,Damaged,Refunded
+220,969,75,1,2024-02-28,Late Delivery,Exchanged
+221,3887,114,4,2025-07-08,Wrong Item,Exchanged
+222,821,177,1,2025-05-23,Changed Mind,Refunded
+223,1770,112,1,2025-02-16,Defective,Exchanged
+224,2872,112,2,2025-04-26,Late Delivery,Exchanged
+225,4334,133,1,2025-02-13,Wrong Item,Exchanged
+226,2712,58,1,2024-08-01,Late Delivery,Refunded
+227,5425,43,1,2024-03-08,Defective,Refunded
+228,537,76,1,2024-12-08,Changed Mind,Refunded
+229,4333,60,1,2024-11-08,Defective,Exchanged
+230,4156,123,1,2024-09-30,Damaged,Exchanged
+231,899,50,2,2025-05-31,Wrong Item,Refunded
+232,1319,118,1,2025-11-21,Late Delivery,Refunded
+233,3849,129,3,2025-06-29,Wrong Item,Exchanged
+234,2159,10,1,2024-10-02,Changed Mind,Refunded
+235,5562,13,4,2024-04-21,Late Delivery,Refunded
+236,410,174,1,2025-06-24,Damaged,Refunded
+237,1414,174,1,2025-10-08,Changed Mind,Refunded
+238,2148,112,4,2025-07-08,Wrong Item,Exchanged
+239,542,144,2,2025-07-21,Late Delivery,Exchanged
+240,1189,88,3,2025-12-21,Defective,Exchanged
+241,4932,54,3,2024-06-13,Defective,Exchanged
+242,1385,89,1,2024-12-26,Damaged,Refunded
+243,4992,29,1,2024-10-12,Late Delivery,Refunded
+244,4356,125,1,2024-08-20,Late Delivery,Refunded
+245,2453,81,4,2025-10-13,Wrong Item,Refunded
+246,4668,65,1,2025-04-23,Wrong Item,Refunded
+247,1875,166,1,2025-06-20,Late Delivery,Exchanged
+248,2805,116,1,2025-01-11,Wrong Item,Refunded
+249,3300,178,1,2025-04-18,Late Delivery,Refunded
+250,3456,104,4,2025-10-20,Wrong Item,Refunded
+251,3169,106,1,2024-07-15,Wrong Item,Exchanged
+252,513,131,1,2026-01-16,Defective,Exchanged
+253,2245,13,1,2025-05-11,Changed Mind,Refunded
+254,2916,108,3,2024-05-08,Defective,Refunded
+255,751,178,1,2024-09-15,Damaged,Refunded
+256,2608,68,4,2024-04-29,Changed Mind,Refunded
+257,744,68,1,2025-10-08,Wrong Item,Refunded
+258,3037,42,2,2024-07-10,Damaged,Refunded
+259,3454,167,2,2024-03-25,Late Delivery,Refunded
+260,4795,72,1,2025-03-03,Defective,Refunded
+261,556,94,3,2025-10-03,Late Delivery,Exchanged
+262,1100,81,2,2024-09-21,Changed Mind,Exchanged
+263,4849,42,1,2025-02-10,Changed Mind,Exchanged
+264,1355,38,2,2024-08-27,Defective,Refunded
+265,3010,151,1,2025-07-15,Changed Mind,Refunded
+266,4037,153,1,2024-08-20,Wrong Item,Refunded
+267,3042,103,3,2026-01-02,Late Delivery,Refunded
+268,104,53,1,2024-04-03,Defective,Refunded
+269,171,83,2,2024-08-11,Late Delivery,Refunded
+270,647,63,1,2025-06-14,Wrong Item,Refunded
+271,4646,144,1,2025-10-10,Wrong Item,Exchanged
+272,4806,127,1,2025-06-15,Late Delivery,Refunded
+273,860,13,1,2024-05-21,Defective,Refunded
+274,309,3,4,2025-07-18,Late Delivery,Refunded
+275,5062,127,1,2024-04-09,Late Delivery,Refunded
+276,2319,93,1,2025-03-24,Changed Mind,Refunded
+277,122,75,3,2025-05-18,Wrong Item,Refunded
+278,5199,90,2,2024-05-06,Late Delivery,Refunded
+279,520,30,2,2024-06-30,Wrong Item,Refunded
+280,2625,143,2,2024-11-26,Wrong Item,Exchanged
+281,4982,90,1,2024-07-28,Changed Mind,Refunded
+282,2841,11,2,2025-07-28,Wrong Item,Refunded
+283,3704,43,1,2024-07-27,Changed Mind,Refunded
+284,1013,23,4,2025-03-05,Wrong Item,Exchanged
+285,1291,43,1,2025-10-29,Late Delivery,Exchanged
+286,5291,37,3,2025-05-15,Wrong Item,Exchanged
+287,1829,39,3,2025-07-23,Defective,Exchanged
+288,4672,129,1,2025-09-20,Wrong Item,Refunded
+289,4181,7,1,2025-10-08,Damaged,Exchanged
+290,995,98,1,2024-05-05,Late Delivery,Refunded
+291,1213,117,1,2025-11-16,Changed Mind,Refunded
+292,2362,120,2,2024-10-22,Late Delivery,Exchanged
+293,3279,42,2,2025-11-18,Late Delivery,Refunded
+294,4606,177,2,2025-01-26,Damaged,Refunded
+295,5966,20,1,2025-11-30,Late Delivery,Refunded
+296,4165,61,1,2025-01-20,Defective,Refunded
+297,2666,66,1,2025-12-25,Late Delivery,Refunded
+298,4990,81,2,2025-08-15,Damaged,Refunded
+299,345,165,1,2026-01-12,Changed Mind,Refunded
+300,5274,146,1,2025-03-10,Wrong Item,Refunded
+301,4826,84,1,2025-04-28,Damaged,Refunded
+302,4214,111,1,2024-04-27,Damaged,Exchanged
+303,5531,113,1,2025-05-08,Damaged,Refunded
+304,402,55,2,2026-01-10,Changed Mind,Exchanged
+305,2091,58,2,2025-09-06,Changed Mind,Exchanged
+306,2548,58,2,2025-07-25,Defective,Refunded
+307,1975,96,1,2025-10-20,Defective,Refunded
+308,3573,64,2,2025-04-11,Late Delivery,Exchanged
+309,1386,137,1,2025-02-16,Defective,Exchanged
+310,1971,49,1,2025-01-15,Wrong Item,Exchanged
+311,5767,20,1,2025-12-19,Defective,Refunded
+312,4301,75,1,2025-06-01,Changed Mind,Refunded
+313,545,138,2,2024-02-03,Wrong Item,Refunded
+314,4125,29,1,2025-02-28,Defective,Exchanged
+315,5185,31,3,2025-03-15,Damaged,Refunded
+316,3670,88,1,2025-09-05,Changed Mind,Refunded
+317,4874,49,1,2025-06-17,Changed Mind,Refunded
+318,4354,163,2,2024-01-24,Damaged,Exchanged
+319,4109,9,1,2025-07-17,Damaged,Refunded
+320,5696,96,2,2025-09-23,Wrong Item,Refunded
+321,5409,58,1,2025-01-05,Wrong Item,Exchanged
+322,5474,68,1,2024-09-05,Defective,Refunded
+323,2348,123,2,2024-11-13,Wrong Item,Exchanged
+324,4739,158,1,2024-08-15,Damaged,Exchanged
+325,470,41,1,2025-07-10,Defective,Refunded
+326,3446,154,2,2025-07-07,Changed Mind,Exchanged
+327,823,22,1,2025-04-16,Defective,Exchanged
+328,600,28,3,2025-03-31,Defective,Exchanged
+329,4726,113,1,2025-04-09,Late Delivery,Refunded
+330,1432,47,2,2025-01-20,Damaged,Refunded
+331,2910,157,2,2025-02-19,Damaged,Refunded
+332,3920,98,2,2026-02-05,Damaged,Exchanged
+333,4617,88,1,2026-01-29,Late Delivery,Refunded
+334,5130,59,2,2025-01-11,Defective,Refunded
+335,4864,159,3,2024-11-09,Late Delivery,Refunded
+336,4351,108,3,2024-10-17,Defective,Refunded
+337,4665,78,1,2025-08-28,Defective,Refunded
+338,2512,160,1,2024-10-17,Changed Mind,Exchanged
+339,4747,20,1,2024-07-06,Changed Mind,Exchanged
+340,3377,7,2,2025-09-29,Damaged,Exchanged
+341,1390,133,1,2024-04-15,Wrong Item,Refunded
+342,601,25,1,2025-02-21,Changed Mind,Refunded
+343,2252,111,1,2024-12-07,Changed Mind,Refunded
+344,1861,91,2,2025-05-23,Defective,Exchanged
+345,5551,109,1,2024-05-11,Damaged,Refunded
+346,3781,64,1,2025-09-17,Wrong Item,Refunded
+347,4688,60,1,2024-11-13,Late Delivery,Refunded
+348,5405,161,2,2024-03-25,Defective,Refunded
+349,4349,56,1,2025-01-13,Changed Mind,Exchanged
+350,532,41,1,2024-11-11,Damaged,Refunded
+351,1814,32,2,2024-12-11,Late Delivery,Refunded
+352,3954,145,2,2024-07-31,Defective,Exchanged
+353,1691,13,1,2025-11-11,Late Delivery,Refunded
+354,1930,43,3,2024-10-15,Late Delivery,Refunded
+355,3016,157,3,2025-01-26,Damaged,Refunded
+356,1507,102,1,2025-08-14,Defective,Exchanged
+357,4766,150,1,2025-04-24,Changed Mind,Refunded
+358,5793,47,2,2024-04-12,Wrong Item,Refunded
+359,4557,120,2,2025-01-17,Changed Mind,Exchanged
+360,5156,170,2,2025-08-07,Damaged,Refunded
+361,1838,91,3,2024-12-17,Late Delivery,Exchanged
+362,1257,54,2,2025-10-11,Damaged,Refunded
+363,1833,123,1,2025-01-15,Wrong Item,Exchanged
+364,5915,128,2,2024-09-22,Changed Mind,Refunded
+365,1956,78,2,2025-01-24,Late Delivery,Refunded
+366,5778,165,1,2024-03-18,Changed Mind,Exchanged
+367,754,122,1,2024-07-06,Late Delivery,Refunded
+368,528,51,1,2024-03-27,Late Delivery,Exchanged
+369,4322,112,2,2024-09-20,Changed Mind,Exchanged
+370,2733,179,1,2024-09-18,Changed Mind,Refunded
+371,5129,2,2,2024-05-13,Late Delivery,Refunded
+372,5640,30,3,2024-04-30,Changed Mind,Exchanged
+373,3975,167,1,2025-08-02,Changed Mind,Exchanged
+374,3850,111,1,2025-03-31,Late Delivery,Exchanged
+375,5222,174,1,2025-06-14,Wrong Item,Refunded
+376,173,61,1,2024-07-17,Changed Mind,Refunded
+377,2434,169,3,2025-06-01,Late Delivery,Exchanged
+378,3197,78,1,2024-08-22,Wrong Item,Refunded
+379,2943,67,1,2024-04-10,Late Delivery,Refunded
+380,4639,71,3,2025-04-09,Defective,Exchanged
+381,4273,84,1,2025-06-22,Wrong Item,Refunded
+382,2195,75,3,2025-12-12,Defective,Refunded
+383,64,17,1,2025-01-08,Damaged,Refunded
+384,4698,39,3,2024-08-18,Changed Mind,Refunded
+385,778,24,2,2024-02-26,Late Delivery,Refunded
+386,1356,124,1,2025-08-12,Wrong Item,Refunded
+387,1993,159,1,2024-10-25,Defective,Refunded
+388,5937,142,1,2024-03-27,Damaged,Exchanged
+389,1198,54,1,2025-03-31,Defective,Refunded
+390,2994,82,3,2025-04-09,Changed Mind,Refunded
+391,3933,104,1,2025-08-28,Damaged,Refunded
+392,2258,61,1,2024-04-25,Wrong Item,Refunded
+393,1226,91,1,2024-09-11,Wrong Item,Refunded
+394,4067,54,2,2024-11-03,Defective,Exchanged
+395,1605,4,1,2025-04-16,Changed Mind,Refunded
+396,2691,150,1,2025-06-08,Damaged,Refunded
+397,2869,32,1,2026-01-04,Defective,Exchanged
+398,179,3,2,2024-09-22,Defective,Refunded
+399,3326,130,1,2025-01-07,Defective,Exchanged
+400,2654,98,1,2026-01-10,Defective,Refunded
+401,1785,95,1,2024-10-21,Late Delivery,Refunded
+402,151,71,1,2026-01-08,Defective,Refunded
+403,5990,93,1,2025-09-01,Damaged,Refunded
+404,4265,109,4,2025-11-19,Damaged,Refunded
+405,4225,26,1,2024-08-17,Wrong Item,Refunded
+406,2505,121,2,2025-03-13,Damaged,Refunded
+407,857,73,1,2025-02-07,Wrong Item,Refunded
+408,2036,61,1,2024-10-17,Late Delivery,Exchanged
+409,3376,20,2,2024-07-31,Damaged,Refunded
+410,3433,31,1,2025-06-22,Late Delivery,Refunded
+411,5047,18,2,2025-04-10,Changed Mind,Refunded
+412,5841,154,3,2024-03-08,Defective,Exchanged
+413,289,151,1,2025-05-22,Wrong Item,Exchanged
+414,4995,178,3,2024-03-23,Changed Mind,Refunded
+415,1560,115,2,2024-12-15,Wrong Item,Refunded
+416,3784,116,1,2025-11-17,Wrong Item,Exchanged
+417,1134,86,2,2024-09-18,Defective,Exchanged
+418,3913,68,3,2024-06-19,Damaged,Exchanged
+419,3848,114,1,2024-12-03,Defective,Refunded
+420,4702,134,1,2024-01-22,Late Delivery,Refunded
+421,3841,18,4,2026-01-02,Defective,Refunded
+422,936,3,2,2024-08-01,Late Delivery,Refunded
+423,1294,74,1,2024-12-24,Defective,Exchanged
+424,5955,85,3,2025-03-02,Late Delivery,Refunded
+425,4901,3,1,2024-08-09,Defective,Exchanged
+426,4118,42,1,2024-10-20,Defective,Exchanged
+427,1727,168,4,2024-07-17,Wrong Item,Exchanged
+428,3319,111,1,2024-04-13,Defective,Exchanged
+429,835,45,2,2025-03-28,Wrong Item,Refunded
+430,4473,66,1,2025-03-25,Changed Mind,Refunded
+431,2127,167,1,2025-10-15,Late Delivery,Refunded
+432,3745,146,2,2024-06-25,Damaged,Refunded
+433,5814,172,2,2025-11-22,Wrong Item,Exchanged
+434,913,61,3,2024-02-29,Defective,Refunded
+435,5468,70,4,2024-09-21,Late Delivery,Refunded
+436,2882,164,1,2025-01-22,Wrong Item,Exchanged
+437,3457,114,1,2025-08-01,Defective,Refunded
+438,3940,54,1,2025-12-16,Defective,Refunded
+439,5076,114,3,2025-02-27,Wrong Item,Refunded
+440,451,161,3,2025-10-27,Defective,Exchanged
+441,4598,56,2,2024-07-29,Defective,Refunded
+442,5438,80,2,2024-10-17,Changed Mind,Refunded
+443,232,119,2,2024-04-18,Wrong Item,Refunded
+444,3284,158,1,2025-02-01,Defective,Exchanged
+445,786,36,1,2025-10-10,Changed Mind,Refunded
+446,792,54,1,2025-03-19,Damaged,Refunded
+447,5988,98,4,2025-11-13,Late Delivery,Exchanged
+448,3582,38,4,2024-01-20,Wrong Item,Refunded
+449,3557,72,1,2025-09-30,Damaged,Exchanged
+450,5530,86,1,2025-12-17,Late Delivery,Exchanged
+451,3091,126,1,2025-04-18,Wrong Item,Refunded
+452,3344,75,1,2025-05-11,Damaged,Refunded
+453,4654,75,1,2024-11-20,Wrong Item,Refunded
+454,4934,85,2,2024-09-17,Late Delivery,Refunded
+455,1374,118,1,2025-08-28,Wrong Item,Refunded
+456,3618,146,1,2025-09-29,Defective,Refunded
+457,2440,163,2,2025-07-04,Damaged,Refunded
+458,580,83,3,2024-07-22,Wrong Item,Refunded
+459,5022,164,1,2024-07-24,Late Delivery,Exchanged
+460,324,53,2,2024-09-16,Damaged,Refunded
+461,4933,177,2,2025-08-09,Changed Mind,Refunded
+462,399,53,3,2025-02-24,Defective,Refunded
+463,4347,73,1,2025-07-13,Changed Mind,Exchanged
+464,3095,168,3,2024-02-17,Damaged,Exchanged
+465,868,168,2,2025-07-09,Defective,Refunded
+466,5276,15,4,2024-09-03,Defective,Exchanged
+467,1646,104,1,2025-03-04,Late Delivery,Refunded
+468,3716,110,1,2025-07-25,Damaged,Exchanged
+469,5835,66,3,2025-12-22,Defective,Exchanged
+470,3410,133,1,2025-01-15,Damaged,Exchanged
+471,1508,37,3,2024-10-24,Changed Mind,Refunded
+472,3448,51,1,2024-11-09,Wrong Item,Refunded
+473,1613,92,2,2025-08-25,Wrong Item,Exchanged
+474,3911,95,1,2025-09-18,Late Delivery,Refunded
+475,4846,131,1,2025-10-04,Late Delivery,Refunded
+476,5319,38,1,2025-08-15,Late Delivery,Exchanged
+477,455,27,1,2024-06-05,Changed Mind,Refunded
+478,851,151,3,2024-11-22,Damaged,Refunded
+479,4082,76,1,2025-01-10,Wrong Item,Exchanged
+480,2760,39,1,2025-05-03,Changed Mind,Refunded
+481,2250,3,1,2025-12-19,Wrong Item,Refunded
+482,559,133,1,2025-12-16,Defective,Refunded
+483,5784,156,1,2024-11-16,Defective,Refunded
+484,3030,76,2,2024-02-07,Wrong Item,Refunded
+485,1782,178,1,2024-11-04,Damaged,Exchanged
+486,5523,101,2,2025-07-29,Changed Mind,Exchanged
+487,3453,147,3,2024-09-19,Damaged,Refunded
+488,2961,78,3,2024-02-13,Late Delivery,Exchanged
+489,1012,144,1,2025-04-12,Wrong Item,Exchanged
+490,5903,86,1,2025-11-08,Late Delivery,Exchanged
+491,1455,105,3,2024-12-12,Wrong Item,Refunded
+492,3293,110,2,2024-11-07,Changed Mind,Refunded
+493,478,122,1,2024-10-09,Defective,Refunded
+494,3881,124,1,2025-01-05,Late Delivery,Refunded
+495,3003,95,3,2025-11-13,Wrong Item,Refunded
+496,4436,140,1,2025-09-09,Changed Mind,Exchanged
+497,3190,31,1,2025-05-04,Late Delivery,Refunded
+498,5803,19,3,2025-07-25,Changed Mind,Refunded
+499,4319,125,3,2025-07-24,Changed Mind,Exchanged
+500,1655,96,1,2024-07-20,Changed Mind,Refunded
+501,5848,139,1,2025-10-17,Defective,Refunded
+502,1523,128,3,2025-07-15,Changed Mind,Exchanged
+503,2000,6,1,2025-10-13,Changed Mind,Exchanged
+504,2735,142,4,2024-04-07,Late Delivery,Exchanged
+505,1717,67,1,2026-01-10,Changed Mind,Exchanged
+506,837,41,2,2025-11-15,Defective,Refunded
+507,4340,149,1,2024-09-29,Changed Mind,Exchanged
+508,4505,100,4,2026-01-13,Wrong Item,Exchanged
+509,5307,40,1,2024-04-10,Damaged,Refunded
+510,533,89,1,2024-06-18,Defective,Exchanged
+511,4797,49,1,2025-04-14,Defective,Exchanged
+512,4029,139,1,2025-12-13,Wrong Item,Refunded
+513,2481,99,1,2025-10-26,Wrong Item,Refunded
+514,1113,52,1,2025-09-30,Defective,Refunded
+515,2850,122,1,2024-11-21,Damaged,Refunded
+516,5312,59,1,2024-03-14,Damaged,Refunded
+517,3628,100,1,2024-12-05,Changed Mind,Refunded
+518,4801,126,1,2025-09-30,Damaged,Refunded
+519,4168,14,2,2024-03-05,Changed Mind,Refunded
+520,3411,40,4,2025-05-02,Changed Mind,Refunded
+521,3620,29,1,2024-05-14,Wrong Item,Refunded
+522,5816,59,4,2024-09-16,Late Delivery,Refunded
+523,1452,140,1,2025-04-15,Late Delivery,Exchanged
+524,5057,139,1,2025-06-21,Changed Mind,Refunded
+525,5236,48,1,2025-03-31,Damaged,Exchanged
+526,60,159,4,2025-06-09,Changed Mind,Exchanged
+527,3775,113,2,2024-07-15,Damaged,Refunded
+528,198,74,1,2025-02-25,Changed Mind,Refunded
+529,1170,7,2,2024-04-11,Changed Mind,Refunded
+530,5186,26,1,2024-09-08,Late Delivery,Refunded
+531,4854,16,2,2025-12-26,Damaged,Refunded
+532,625,71,1,2025-05-25,Defective,Refunded
+533,3945,84,3,2024-10-03,Late Delivery,Refunded
+534,4536,27,1,2025-12-31,Changed Mind,Exchanged
+535,2269,103,1,2024-03-16,Wrong Item,Exchanged
+536,5587,49,2,2025-08-22,Late Delivery,Exchanged
+537,834,85,4,2025-04-09,Late Delivery,Exchanged
+538,5572,148,2,2025-10-09,Changed Mind,Exchanged
+539,1462,98,1,2025-10-09,Late Delivery,Refunded
+540,649,112,2,2025-08-29,Wrong Item,Refunded
+541,3291,60,1,2025-05-02,Changed Mind,Exchanged
+542,4238,113,1,2024-06-23,Defective,Refunded
+543,2042,37,2,2026-02-02,Changed Mind,Exchanged
+544,110,164,1,2024-04-28,Late Delivery,Refunded
+545,3517,107,1,2024-09-06,Damaged,Refunded
+546,3078,139,3,2024-03-31,Changed Mind,Refunded
+547,4565,98,1,2024-11-21,Changed Mind,Exchanged
+548,3145,15,1,2024-02-15,Defective,Refunded
+549,4872,127,1,2025-11-11,Defective,Exchanged
+550,853,10,3,2025-06-19,Changed Mind,Refunded
+551,1672,87,1,2025-04-05,Damaged,Refunded
+552,933,32,3,2025-11-23,Defective,Refunded
+553,95,16,2,2025-02-12,Damaged,Refunded
+554,5576,129,3,2024-09-17,Changed Mind,Refunded
+555,3863,100,1,2024-03-05,Wrong Item,Refunded
+556,3490,98,2,2025-01-28,Defective,Refunded
+557,2732,77,3,2024-08-03,Wrong Item,Refunded
+558,4096,61,1,2024-05-15,Defective,Refunded
+559,1332,10,2,2025-05-12,Defective,Refunded
+560,5946,84,1,2025-07-10,Changed Mind,Refunded
+561,2339,151,1,2025-11-10,Damaged,Refunded
+562,1624,123,1,2024-12-02,Changed Mind,Exchanged
+563,2741,136,2,2024-05-17,Defective,Refunded
+564,3812,35,1,2024-02-12,Late Delivery,Refunded
+565,2230,138,1,2026-01-17,Wrong Item,Refunded
+566,5389,50,4,2025-02-25,Defective,Refunded
+567,5217,136,1,2025-11-22,Defective,Exchanged
+568,4462,126,1,2024-01-19,Damaged,Refunded
+569,205,54,1,2025-12-01,Damaged,Exchanged
+570,4022,69,2,2024-07-15,Wrong Item,Refunded
+571,4312,154,1,2025-12-30,Damaged,Refunded
+572,2904,46,4,2024-12-27,Damaged,Refunded
+573,2158,63,1,2024-12-16,Defective,Refunded
+574,3432,43,3,2024-06-02,Late Delivery,Exchanged
+575,2575,2,1,2025-09-28,Defective,Refunded
+576,4939,150,1,2025-12-20,Wrong Item,Refunded
+577,5122,4,4,2024-03-23,Damaged,Exchanged
+578,2238,159,1,2025-11-03,Damaged,Exchanged

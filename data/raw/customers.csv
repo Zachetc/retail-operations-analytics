@@ -1,0 +1,1201 @@
+customer_id,customer_name,segment,city,state,signup_date,acquisition_channel
+1,Customer 0001,Consumer,Philadelphia,PA,2025-03-19,Email
+2,Customer 0002,Consumer,Boston,MA,2025-01-18,Direct
+3,Customer 0003,Consumer,Newark,NJ,2023-06-26,Email
+4,Customer 0004,Consumer,Newark,NJ,2025-05-19,Direct
+5,Customer 0005,Consumer,Buffalo,NY,2023-05-07,Social
+6,Customer 0006,Consumer,Buffalo,NY,2023-04-06,Search
+7,Customer 0007,Consumer,Pittsburgh,PA,2023-10-23,Direct
+8,Customer 0008,Consumer,Allentown,PA,2024-01-06,Direct
+9,Customer 0009,Consumer,Jersey City,NJ,2023-07-19,Email
+10,Customer 0010,Consumer,Boston,MA,2024-02-26,Direct
+11,Customer 0011,Consumer,Stamford,CT,2025-08-11,Social
+12,Customer 0012,Small Business,Pittsburgh,PA,2024-05-23,Search
+13,Customer 0013,Consumer,Rochester,NY,2025-12-11,Referral
+14,Customer 0014,Consumer,Stamford,CT,2023-05-30,Social
+15,Customer 0015,Corporate,Jersey City,NJ,2023-11-08,Social
+16,Customer 0016,Consumer,New York,NY,2024-10-04,Referral
+17,Customer 0017,Consumer,Worcester,MA,2025-07-23,Email
+18,Customer 0018,Consumer,Pittsburgh,PA,2023-05-14,Referral
+19,Customer 0019,Consumer,Springfield,MA,2025-07-01,Social
+20,Customer 0020,Consumer,Philadelphia,PA,2025-08-03,Direct
+21,Customer 0021,Consumer,Albany,NY,2023-05-01,Referral
+22,Customer 0022,Consumer,Edison,NJ,2024-05-22,Social
+23,Customer 0023,Consumer,Buffalo,NY,2025-07-08,Referral
+24,Customer 0024,Consumer,Jersey City,NJ,2024-07-24,Referral
+25,Customer 0025,Consumer,Hartford,CT,2023-11-06,Search
+26,Customer 0026,Consumer,Edison,NJ,2024-04-22,Direct
+27,Customer 0027,Consumer,Jersey City,NJ,2024-07-31,Social
+28,Customer 0028,Corporate,Worcester,MA,2024-10-14,Direct
+29,Customer 0029,Consumer,Springfield,MA,2023-04-21,Direct
+30,Customer 0030,Consumer,Stamford,CT,2025-03-28,Social
+31,Customer 0031,Consumer,Hartford,CT,2024-01-26,Search
+32,Customer 0032,Consumer,Hartford,CT,2023-08-14,Email
+33,Customer 0033,Consumer,New York,NY,2023-11-06,Referral
+34,Customer 0034,Small Business,Boston,MA,2023-05-25,Direct
+35,Customer 0035,Corporate,Hartford,CT,2024-05-31,Direct
+36,Customer 0036,Consumer,Pittsburgh,PA,2023-09-09,Social
+37,Customer 0037,Consumer,Stamford,CT,2025-09-17,Search
+38,Customer 0038,Consumer,Rochester,NY,2024-06-26,Search
+39,Customer 0039,Corporate,Boston,MA,2024-02-25,Direct
+40,Customer 0040,Small Business,Philadelphia,PA,2023-02-25,Referral
+41,Customer 0041,Consumer,Rochester,NY,2025-11-27,Search
+42,Customer 0042,Consumer,Philadelphia,PA,2025-12-26,Direct
+43,Customer 0043,Consumer,Allentown,PA,2024-04-01,Search
+44,Customer 0044,Consumer,Jersey City,NJ,2024-04-09,Social
+45,Customer 0045,Corporate,Allentown,PA,2023-03-01,Referral
+46,Customer 0046,Consumer,Stamford,CT,2024-02-01,Referral
+47,Customer 0047,Corporate,New Haven,CT,2024-12-16,Referral
+48,Customer 0048,Consumer,Buffalo,NY,2023-07-29,Search
+49,Customer 0049,Consumer,Philadelphia,PA,2025-09-15,Direct
+50,Customer 0050,Small Business,Albany,NY,2024-12-05,Email
+51,Customer 0051,Consumer,Albany,NY,2024-02-13,Search
+52,Customer 0052,Consumer,New Haven,CT,2024-11-11,Social
+53,Customer 0053,Small Business,Stamford,CT,2023-06-23,Search
+54,Customer 0054,Consumer,Newark,NJ,2023-11-06,Social
+55,Customer 0055,Consumer,Edison,NJ,2025-08-29,Referral
+56,Customer 0056,Consumer,Edison,NJ,2023-09-26,Email
+57,Customer 0057,Consumer,Springfield,MA,2023-10-13,Search
+58,Customer 0058,Consumer,Newark,NJ,2024-05-30,Direct
+59,Customer 0059,Consumer,Edison,NJ,2024-10-29,Social
+60,Customer 0060,Small Business,Newark,NJ,2024-12-25,Direct
+61,Customer 0061,Consumer,Worcester,MA,2025-10-24,Search
+62,Customer 0062,Small Business,Springfield,MA,2023-02-08,Search
+63,Customer 0063,Consumer,Boston,MA,2023-11-03,Social
+64,Customer 0064,Consumer,Springfield,MA,2023-09-04,Referral
+65,Customer 0065,Small Business,Springfield,MA,2025-09-15,Email
+66,Customer 0066,Consumer,Boston,MA,2024-05-23,Email
+67,Customer 0067,Small Business,Albany,NY,2023-02-27,Email
+68,Customer 0068,Consumer,Stamford,CT,2025-11-01,Search
+69,Customer 0069,Consumer,Pittsburgh,PA,2025-11-06,Social
+70,Customer 0070,Small Business,Boston,MA,2025-12-07,Referral
+71,Customer 0071,Consumer,Boston,MA,2025-07-05,Email
+72,Customer 0072,Consumer,Stamford,CT,2024-10-09,Search
+73,Customer 0073,Consumer,Hartford,CT,2024-03-11,Email
+74,Customer 0074,Consumer,Edison,NJ,2025-01-19,Search
+75,Customer 0075,Consumer,Hartford,CT,2023-07-12,Social
+76,Customer 0076,Consumer,Edison,NJ,2024-04-03,Social
+77,Customer 0077,Consumer,Worcester,MA,2024-11-25,Referral
+78,Customer 0078,Consumer,Philadelphia,PA,2025-01-19,Direct
+79,Customer 0079,Consumer,Stamford,CT,2023-02-07,Direct
+80,Customer 0080,Corporate,Worcester,MA,2025-11-15,Email
+81,Customer 0081,Consumer,Newark,NJ,2023-06-22,Email
+82,Customer 0082,Small Business,Jersey City,NJ,2023-09-23,Referral
+83,Customer 0083,Small Business,Hartford,CT,2026-01-03,Direct
+84,Customer 0084,Consumer,New Haven,CT,2024-10-31,Email
+85,Customer 0085,Consumer,Jersey City,NJ,2023-05-29,Email
+86,Customer 0086,Consumer,Rochester,NY,2023-06-21,Search
+87,Customer 0087,Consumer,Rochester,NY,2023-09-07,Referral
+88,Customer 0088,Consumer,Worcester,MA,2024-07-02,Email
+89,Customer 0089,Corporate,Springfield,MA,2024-05-03,Search
+90,Customer 0090,Consumer,Philadelphia,PA,2024-01-06,Referral
+91,Customer 0091,Consumer,Allentown,PA,2024-02-26,Direct
+92,Customer 0092,Small Business,Jersey City,NJ,2024-12-11,Referral
+93,Customer 0093,Small Business,New York,NY,2023-02-07,Direct
+94,Customer 0094,Consumer,Edison,NJ,2025-08-30,Social
+95,Customer 0095,Consumer,Albany,NY,2025-10-10,Social
+96,Customer 0096,Corporate,Worcester,MA,2024-03-16,Referral
+97,Customer 0097,Consumer,Edison,NJ,2023-10-14,Referral
+98,Customer 0098,Consumer,Buffalo,NY,2023-01-30,Referral
+99,Customer 0099,Consumer,Hartford,CT,2023-04-24,Social
+100,Customer 0100,Consumer,Springfield,MA,2024-07-31,Referral
+101,Customer 0101,Consumer,Albany,NY,2024-01-15,Social
+102,Customer 0102,Corporate,Rochester,NY,2025-01-15,Direct
+103,Customer 0103,Corporate,Philadelphia,PA,2023-03-12,Referral
+104,Customer 0104,Consumer,Jersey City,NJ,2024-01-10,Social
+105,Customer 0105,Consumer,Albany,NY,2024-07-25,Search
+106,Customer 0106,Consumer,Edison,NJ,2023-01-11,Email
+107,Customer 0107,Consumer,Jersey City,NJ,2023-03-27,Referral
+108,Customer 0108,Consumer,Allentown,PA,2024-04-21,Direct
+109,Customer 0109,Small Business,Edison,NJ,2025-03-08,Social
+110,Customer 0110,Consumer,Jersey City,NJ,2023-10-24,Direct
+111,Customer 0111,Consumer,New Haven,CT,2025-11-01,Direct
+112,Customer 0112,Small Business,Springfield,MA,2023-02-02,Direct
+113,Customer 0113,Consumer,Newark,NJ,2023-03-05,Referral
+114,Customer 0114,Consumer,Albany,NY,2025-07-13,Email
+115,Customer 0115,Consumer,Springfield,MA,2024-05-15,Email
+116,Customer 0116,Small Business,Hartford,CT,2025-10-27,Email
+117,Customer 0117,Consumer,Boston,MA,2025-08-28,Email
+118,Customer 0118,Consumer,Philadelphia,PA,2024-02-25,Social
+119,Customer 0119,Consumer,Stamford,CT,2023-06-07,Referral
+120,Customer 0120,Consumer,Buffalo,NY,2023-06-08,Referral
+121,Customer 0121,Consumer,Allentown,PA,2024-09-15,Search
+122,Customer 0122,Consumer,Albany,NY,2023-05-05,Email
+123,Customer 0123,Consumer,Edison,NJ,2025-09-29,Direct
+124,Customer 0124,Consumer,Pittsburgh,PA,2025-08-12,Email
+125,Customer 0125,Corporate,Boston,MA,2024-09-30,Social
+126,Customer 0126,Consumer,Rochester,NY,2025-07-28,Direct
+127,Customer 0127,Consumer,Stamford,CT,2025-03-03,Search
+128,Customer 0128,Small Business,New York,NY,2023-10-18,Referral
+129,Customer 0129,Consumer,Philadelphia,PA,2025-11-07,Email
+130,Customer 0130,Small Business,Philadelphia,PA,2025-10-16,Social
+131,Customer 0131,Consumer,Hartford,CT,2023-11-22,Social
+132,Customer 0132,Small Business,Stamford,CT,2024-09-10,Social
+133,Customer 0133,Consumer,Pittsburgh,PA,2024-10-09,Referral
+134,Customer 0134,Small Business,Rochester,NY,2024-11-23,Email
+135,Customer 0135,Small Business,Edison,NJ,2023-01-25,Referral
+136,Customer 0136,Consumer,Pittsburgh,PA,2023-05-14,Direct
+137,Customer 0137,Small Business,Rochester,NY,2025-05-26,Email
+138,Customer 0138,Small Business,Philadelphia,PA,2023-04-16,Referral
+139,Customer 0139,Consumer,Newark,NJ,2024-06-28,Referral
+140,Customer 0140,Small Business,Jersey City,NJ,2025-05-26,Social
+141,Customer 0141,Consumer,Springfield,MA,2024-02-21,Email
+142,Customer 0142,Consumer,Stamford,CT,2023-10-11,Referral
+143,Customer 0143,Consumer,Hartford,CT,2023-09-18,Social
+144,Customer 0144,Consumer,Pittsburgh,PA,2024-09-01,Referral
+145,Customer 0145,Consumer,New Haven,CT,2024-05-03,Direct
+146,Customer 0146,Consumer,Hartford,CT,2023-12-09,Email
+147,Customer 0147,Consumer,Edison,NJ,2025-10-15,Social
+148,Customer 0148,Consumer,Pittsburgh,PA,2025-05-25,Search
+149,Customer 0149,Consumer,Newark,NJ,2023-12-24,Email
+150,Customer 0150,Consumer,Philadelphia,PA,2025-01-24,Direct
+151,Customer 0151,Consumer,Newark,NJ,2025-04-25,Direct
+152,Customer 0152,Consumer,Jersey City,NJ,2024-07-07,Email
+153,Customer 0153,Consumer,Stamford,CT,2025-01-07,Direct
+154,Customer 0154,Consumer,Springfield,MA,2024-03-18,Search
+155,Customer 0155,Consumer,Stamford,CT,2025-07-02,Referral
+156,Customer 0156,Consumer,Buffalo,NY,2023-03-08,Social
+157,Customer 0157,Consumer,Worcester,MA,2023-01-01,Direct
+158,Customer 0158,Small Business,Stamford,CT,2024-05-23,Search
+159,Customer 0159,Corporate,Newark,NJ,2025-12-05,Email
+160,Customer 0160,Consumer,Hartford,CT,2023-03-22,Search
+161,Customer 0161,Consumer,Edison,NJ,2023-03-18,Referral
+162,Customer 0162,Consumer,Edison,NJ,2024-05-30,Social
+163,Customer 0163,Consumer,New York,NY,2023-05-25,Direct
+164,Customer 0164,Consumer,Jersey City,NJ,2024-06-18,Direct
+165,Customer 0165,Consumer,New York,NY,2026-01-05,Social
+166,Customer 0166,Consumer,Pittsburgh,PA,2024-05-11,Search
+167,Customer 0167,Corporate,Boston,MA,2023-03-01,Referral
+168,Customer 0168,Consumer,New York,NY,2024-02-02,Social
+169,Customer 0169,Consumer,Rochester,NY,2024-04-11,Referral
+170,Customer 0170,Consumer,Jersey City,NJ,2023-03-11,Social
+171,Customer 0171,Consumer,Allentown,PA,2025-03-22,Referral
+172,Customer 0172,Consumer,Boston,MA,2024-02-25,Search
+173,Customer 0173,Consumer,Philadelphia,PA,2024-04-17,Referral
+174,Customer 0174,Consumer,Philadelphia,PA,2025-10-12,Search
+175,Customer 0175,Corporate,Stamford,CT,2023-04-26,Search
+176,Customer 0176,Consumer,Hartford,CT,2024-03-12,Direct
+177,Customer 0177,Consumer,Jersey City,NJ,2023-04-17,Search
+178,Customer 0178,Small Business,Stamford,CT,2024-10-05,Email
+179,Customer 0179,Consumer,Jersey City,NJ,2024-01-26,Direct
+180,Customer 0180,Consumer,Hartford,CT,2024-09-30,Social
+181,Customer 0181,Consumer,Pittsburgh,PA,2025-06-25,Email
+182,Customer 0182,Consumer,Rochester,NY,2023-06-15,Email
+183,Customer 0183,Consumer,Boston,MA,2025-02-17,Referral
+184,Customer 0184,Consumer,Hartford,CT,2023-04-11,Search
+185,Customer 0185,Consumer,Allentown,PA,2025-07-03,Referral
+186,Customer 0186,Consumer,Hartford,CT,2025-04-21,Social
+187,Customer 0187,Consumer,Albany,NY,2023-03-13,Email
+188,Customer 0188,Small Business,Philadelphia,PA,2023-05-09,Referral
+189,Customer 0189,Corporate,Pittsburgh,PA,2024-11-17,Direct
+190,Customer 0190,Corporate,Rochester,NY,2024-10-10,Referral
+191,Customer 0191,Small Business,New York,NY,2023-02-19,Email
+192,Customer 0192,Corporate,New Haven,CT,2025-08-11,Social
+193,Customer 0193,Consumer,Pittsburgh,PA,2025-10-07,Social
+194,Customer 0194,Small Business,Newark,NJ,2024-09-13,Search
+195,Customer 0195,Small Business,Boston,MA,2024-11-02,Social
+196,Customer 0196,Consumer,Allentown,PA,2023-06-11,Social
+197,Customer 0197,Consumer,Newark,NJ,2025-04-15,Email
+198,Customer 0198,Consumer,New Haven,CT,2024-10-29,Social
+199,Customer 0199,Consumer,New York,NY,2024-06-26,Search
+200,Customer 0200,Corporate,Albany,NY,2025-10-17,Social
+201,Customer 0201,Consumer,Newark,NJ,2023-09-30,Direct
+202,Customer 0202,Small Business,Edison,NJ,2023-09-06,Referral
+203,Customer 0203,Consumer,Pittsburgh,PA,2024-07-02,Referral
+204,Customer 0204,Consumer,Jersey City,NJ,2024-05-21,Search
+205,Customer 0205,Consumer,Jersey City,NJ,2024-01-21,Social
+206,Customer 0206,Consumer,Philadelphia,PA,2025-11-05,Email
+207,Customer 0207,Consumer,Hartford,CT,2023-07-29,Search
+208,Customer 0208,Small Business,Stamford,CT,2023-03-24,Search
+209,Customer 0209,Consumer,New York,NY,2024-01-24,Direct
+210,Customer 0210,Consumer,Newark,NJ,2025-02-01,Search
+211,Customer 0211,Small Business,New Haven,CT,2024-06-16,Email
+212,Customer 0212,Consumer,Rochester,NY,2024-03-21,Referral
+213,Customer 0213,Corporate,Newark,NJ,2024-02-22,Email
+214,Customer 0214,Small Business,Springfield,MA,2024-02-21,Referral
+215,Customer 0215,Consumer,New Haven,CT,2025-01-31,Referral
+216,Customer 0216,Small Business,Buffalo,NY,2023-03-06,Direct
+217,Customer 0217,Consumer,Hartford,CT,2025-04-15,Social
+218,Customer 0218,Consumer,Boston,MA,2025-12-29,Search
+219,Customer 0219,Consumer,New Haven,CT,2024-07-09,Referral
+220,Customer 0220,Consumer,Pittsburgh,PA,2023-04-16,Direct
+221,Customer 0221,Consumer,Pittsburgh,PA,2025-05-02,Referral
+222,Customer 0222,Consumer,Jersey City,NJ,2025-04-09,Email
+223,Customer 0223,Consumer,Hartford,CT,2025-05-17,Email
+224,Customer 0224,Consumer,New Haven,CT,2025-01-16,Search
+225,Customer 0225,Consumer,Newark,NJ,2023-04-16,Social
+226,Customer 0226,Consumer,Rochester,NY,2025-10-30,Referral
+227,Customer 0227,Consumer,Philadelphia,PA,2025-12-03,Email
+228,Customer 0228,Small Business,Albany,NY,2025-10-01,Search
+229,Customer 0229,Corporate,Philadelphia,PA,2023-03-31,Social
+230,Customer 0230,Consumer,Philadelphia,PA,2025-03-05,Direct
+231,Customer 0231,Consumer,Edison,NJ,2024-03-30,Direct
+232,Customer 0232,Consumer,Jersey City,NJ,2024-01-10,Email
+233,Customer 0233,Consumer,New Haven,CT,2023-11-17,Email
+234,Customer 0234,Consumer,Newark,NJ,2024-01-30,Direct
+235,Customer 0235,Consumer,Rochester,NY,2023-08-30,Social
+236,Customer 0236,Consumer,Springfield,MA,2024-09-19,Referral
+237,Customer 0237,Consumer,Boston,MA,2025-05-21,Referral
+238,Customer 0238,Consumer,New Haven,CT,2025-06-16,Email
+239,Customer 0239,Consumer,Worcester,MA,2025-08-10,Direct
+240,Customer 0240,Consumer,Hartford,CT,2025-08-27,Email
+241,Customer 0241,Consumer,Jersey City,NJ,2025-05-31,Social
+242,Customer 0242,Consumer,Springfield,MA,2023-03-25,Search
+243,Customer 0243,Consumer,Rochester,NY,2025-11-13,Direct
+244,Customer 0244,Consumer,New Haven,CT,2023-10-06,Email
+245,Customer 0245,Consumer,Springfield,MA,2023-08-13,Social
+246,Customer 0246,Consumer,Philadelphia,PA,2024-03-28,Referral
+247,Customer 0247,Consumer,Worcester,MA,2023-11-22,Direct
+248,Customer 0248,Consumer,Pittsburgh,PA,2023-10-22,Social
+249,Customer 0249,Consumer,Edison,NJ,2024-06-22,Search
+250,Customer 0250,Consumer,Pittsburgh,PA,2023-03-17,Social
+251,Customer 0251,Consumer,Edison,NJ,2024-07-23,Social
+252,Customer 0252,Small Business,Jersey City,NJ,2023-08-24,Email
+253,Customer 0253,Consumer,Pittsburgh,PA,2025-12-03,Email
+254,Customer 0254,Small Business,Allentown,PA,2025-03-18,Referral
+255,Customer 0255,Consumer,Pittsburgh,PA,2025-01-25,Referral
+256,Customer 0256,Consumer,Philadelphia,PA,2025-06-24,Direct
+257,Customer 0257,Consumer,Rochester,NY,2025-11-22,Direct
+258,Customer 0258,Small Business,Allentown,PA,2023-01-04,Search
+259,Customer 0259,Consumer,Jersey City,NJ,2025-06-04,Referral
+260,Customer 0260,Consumer,Buffalo,NY,2025-09-27,Email
+261,Customer 0261,Consumer,New York,NY,2023-01-06,Referral
+262,Customer 0262,Consumer,Rochester,NY,2025-12-29,Direct
+263,Customer 0263,Consumer,Allentown,PA,2023-10-01,Direct
+264,Customer 0264,Consumer,Hartford,CT,2023-10-03,Search
+265,Customer 0265,Consumer,Jersey City,NJ,2023-07-16,Search
+266,Customer 0266,Corporate,Pittsburgh,PA,2024-06-25,Email
+267,Customer 0267,Consumer,Worcester,MA,2025-06-27,Direct
+268,Customer 0268,Small Business,Hartford,CT,2023-12-05,Email
+269,Customer 0269,Consumer,New York,NY,2025-04-11,Search
+270,Customer 0270,Consumer,New York,NY,2023-01-26,Search
+271,Customer 0271,Consumer,Jersey City,NJ,2024-02-13,Direct
+272,Customer 0272,Consumer,New Haven,CT,2023-12-24,Email
+273,Customer 0273,Corporate,Allentown,PA,2023-04-10,Social
+274,Customer 0274,Small Business,Boston,MA,2025-02-07,Social
+275,Customer 0275,Consumer,Albany,NY,2023-12-26,Email
+276,Customer 0276,Consumer,Philadelphia,PA,2023-03-21,Referral
+277,Customer 0277,Consumer,Rochester,NY,2025-06-12,Direct
+278,Customer 0278,Consumer,Pittsburgh,PA,2024-03-20,Direct
+279,Customer 0279,Small Business,Buffalo,NY,2024-06-17,Search
+280,Customer 0280,Consumer,Edison,NJ,2024-10-31,Social
+281,Customer 0281,Consumer,Allentown,PA,2024-05-04,Direct
+282,Customer 0282,Consumer,Stamford,CT,2025-12-22,Email
+283,Customer 0283,Consumer,New Haven,CT,2024-04-23,Referral
+284,Customer 0284,Consumer,Jersey City,NJ,2023-06-09,Search
+285,Customer 0285,Consumer,Newark,NJ,2023-02-25,Direct
+286,Customer 0286,Consumer,Jersey City,NJ,2023-10-18,Email
+287,Customer 0287,Consumer,Buffalo,NY,2023-03-29,Email
+288,Customer 0288,Small Business,Rochester,NY,2024-02-13,Direct
+289,Customer 0289,Consumer,Albany,NY,2023-08-08,Search
+290,Customer 0290,Corporate,New York,NY,2023-03-12,Email
+291,Customer 0291,Consumer,Pittsburgh,PA,2023-07-24,Search
+292,Customer 0292,Consumer,Pittsburgh,PA,2024-11-20,Email
+293,Customer 0293,Consumer,Pittsburgh,PA,2024-08-01,Referral
+294,Customer 0294,Consumer,Allentown,PA,2025-10-28,Referral
+295,Customer 0295,Small Business,Springfield,MA,2023-03-05,Email
+296,Customer 0296,Consumer,New Haven,CT,2023-07-21,Email
+297,Customer 0297,Consumer,Springfield,MA,2024-03-19,Email
+298,Customer 0298,Consumer,Worcester,MA,2023-12-15,Direct
+299,Customer 0299,Consumer,Jersey City,NJ,2023-04-21,Social
+300,Customer 0300,Corporate,Albany,NY,2024-01-13,Direct
+301,Customer 0301,Consumer,Allentown,PA,2024-06-17,Search
+302,Customer 0302,Consumer,Philadelphia,PA,2024-04-19,Email
+303,Customer 0303,Consumer,Albany,NY,2023-08-03,Referral
+304,Customer 0304,Small Business,Albany,NY,2025-03-19,Email
+305,Customer 0305,Consumer,New Haven,CT,2023-02-21,Referral
+306,Customer 0306,Consumer,Pittsburgh,PA,2025-10-23,Search
+307,Customer 0307,Consumer,Hartford,CT,2025-12-24,Direct
+308,Customer 0308,Consumer,Rochester,NY,2024-10-31,Social
+309,Customer 0309,Consumer,Springfield,MA,2024-10-24,Social
+310,Customer 0310,Consumer,Allentown,PA,2024-04-18,Social
+311,Customer 0311,Consumer,Edison,NJ,2024-01-28,Direct
+312,Customer 0312,Corporate,Edison,NJ,2023-11-16,Referral
+313,Customer 0313,Consumer,Springfield,MA,2024-12-14,Referral
+314,Customer 0314,Consumer,Jersey City,NJ,2023-07-28,Email
+315,Customer 0315,Corporate,Jersey City,NJ,2023-11-06,Referral
+316,Customer 0316,Consumer,Pittsburgh,PA,2024-07-14,Email
+317,Customer 0317,Consumer,Philadelphia,PA,2025-03-06,Email
+318,Customer 0318,Consumer,Stamford,CT,2024-03-31,Referral
+319,Customer 0319,Consumer,Hartford,CT,2023-10-18,Social
+320,Customer 0320,Consumer,Buffalo,NY,2025-05-30,Direct
+321,Customer 0321,Consumer,Hartford,CT,2024-04-13,Email
+322,Customer 0322,Consumer,Stamford,CT,2024-10-03,Email
+323,Customer 0323,Consumer,Hartford,CT,2025-03-30,Search
+324,Customer 0324,Consumer,Pittsburgh,PA,2025-09-15,Direct
+325,Customer 0325,Small Business,New Haven,CT,2024-01-10,Referral
+326,Customer 0326,Small Business,Albany,NY,2025-09-30,Email
+327,Customer 0327,Consumer,Rochester,NY,2024-03-22,Search
+328,Customer 0328,Small Business,Worcester,MA,2023-07-27,Social
+329,Customer 0329,Consumer,Boston,MA,2025-09-01,Referral
+330,Customer 0330,Small Business,Worcester,MA,2025-04-20,Social
+331,Customer 0331,Consumer,Edison,NJ,2024-01-12,Email
+332,Customer 0332,Consumer,Worcester,MA,2023-04-26,Social
+333,Customer 0333,Consumer,Hartford,CT,2023-01-28,Social
+334,Customer 0334,Consumer,Allentown,PA,2024-06-27,Referral
+335,Customer 0335,Corporate,New Haven,CT,2024-03-24,Social
+336,Customer 0336,Consumer,Hartford,CT,2023-12-03,Email
+337,Customer 0337,Small Business,Jersey City,NJ,2024-04-07,Search
+338,Customer 0338,Consumer,Allentown,PA,2025-04-26,Referral
+339,Customer 0339,Small Business,Springfield,MA,2023-09-14,Social
+340,Customer 0340,Consumer,Philadelphia,PA,2024-07-01,Referral
+341,Customer 0341,Consumer,New Haven,CT,2024-01-16,Referral
+342,Customer 0342,Consumer,Philadelphia,PA,2024-09-10,Social
+343,Customer 0343,Consumer,New Haven,CT,2023-06-24,Referral
+344,Customer 0344,Consumer,Jersey City,NJ,2025-02-27,Direct
+345,Customer 0345,Small Business,Philadelphia,PA,2025-12-22,Direct
+346,Customer 0346,Corporate,New York,NY,2024-03-05,Referral
+347,Customer 0347,Consumer,Allentown,PA,2023-07-27,Search
+348,Customer 0348,Small Business,Jersey City,NJ,2024-12-10,Search
+349,Customer 0349,Consumer,New Haven,CT,2023-12-10,Direct
+350,Customer 0350,Consumer,Rochester,NY,2024-02-09,Search
+351,Customer 0351,Consumer,Boston,MA,2025-06-17,Email
+352,Customer 0352,Consumer,Boston,MA,2024-06-25,Search
+353,Customer 0353,Consumer,Stamford,CT,2023-04-30,Search
+354,Customer 0354,Consumer,Hartford,CT,2025-10-17,Direct
+355,Customer 0355,Consumer,Buffalo,NY,2024-10-18,Direct
+356,Customer 0356,Small Business,New Haven,CT,2024-08-30,Referral
+357,Customer 0357,Consumer,Stamford,CT,2023-06-04,Referral
+358,Customer 0358,Consumer,New York,NY,2023-04-04,Referral
+359,Customer 0359,Small Business,Albany,NY,2025-09-19,Search
+360,Customer 0360,Consumer,Buffalo,NY,2025-05-01,Referral
+361,Customer 0361,Consumer,Rochester,NY,2024-11-30,Direct
+362,Customer 0362,Consumer,Boston,MA,2024-08-04,Social
+363,Customer 0363,Small Business,Allentown,PA,2023-04-18,Referral
+364,Customer 0364,Consumer,Pittsburgh,PA,2025-04-06,Referral
+365,Customer 0365,Consumer,Worcester,MA,2024-02-21,Email
+366,Customer 0366,Consumer,Philadelphia,PA,2024-10-11,Search
+367,Customer 0367,Small Business,Springfield,MA,2023-06-29,Email
+368,Customer 0368,Consumer,New Haven,CT,2025-04-11,Email
+369,Customer 0369,Consumer,Stamford,CT,2023-08-11,Search
+370,Customer 0370,Small Business,New Haven,CT,2023-05-04,Direct
+371,Customer 0371,Consumer,Worcester,MA,2023-10-29,Direct
+372,Customer 0372,Consumer,Buffalo,NY,2023-03-22,Social
+373,Customer 0373,Small Business,Newark,NJ,2024-01-07,Social
+374,Customer 0374,Small Business,New York,NY,2025-01-25,Search
+375,Customer 0375,Small Business,Allentown,PA,2024-06-12,Search
+376,Customer 0376,Consumer,Hartford,CT,2024-10-14,Direct
+377,Customer 0377,Consumer,Boston,MA,2025-10-16,Email
+378,Customer 0378,Consumer,Albany,NY,2025-04-08,Email
+379,Customer 0379,Consumer,New Haven,CT,2023-11-15,Social
+380,Customer 0380,Consumer,Boston,MA,2023-06-19,Search
+381,Customer 0381,Consumer,Edison,NJ,2023-02-01,Email
+382,Customer 0382,Small Business,New York,NY,2024-03-22,Search
+383,Customer 0383,Consumer,Hartford,CT,2024-07-18,Search
+384,Customer 0384,Corporate,New Haven,CT,2024-01-19,Referral
+385,Customer 0385,Consumer,Edison,NJ,2023-06-22,Direct
+386,Customer 0386,Small Business,Stamford,CT,2024-06-04,Email
+387,Customer 0387,Consumer,New York,NY,2023-05-05,Direct
+388,Customer 0388,Consumer,Albany,NY,2024-09-29,Direct
+389,Customer 0389,Consumer,Jersey City,NJ,2023-05-03,Direct
+390,Customer 0390,Consumer,Stamford,CT,2023-12-07,Email
+391,Customer 0391,Consumer,Allentown,PA,2023-12-02,Social
+392,Customer 0392,Corporate,Stamford,CT,2025-07-16,Direct
+393,Customer 0393,Consumer,Pittsburgh,PA,2024-07-27,Direct
+394,Customer 0394,Small Business,Allentown,PA,2023-02-01,Direct
+395,Customer 0395,Corporate,Allentown,PA,2025-05-27,Search
+396,Customer 0396,Consumer,Stamford,CT,2025-02-09,Search
+397,Customer 0397,Consumer,Stamford,CT,2023-01-04,Referral
+398,Customer 0398,Consumer,Hartford,CT,2023-03-28,Search
+399,Customer 0399,Corporate,Boston,MA,2024-07-14,Direct
+400,Customer 0400,Consumer,Stamford,CT,2025-12-30,Direct
+401,Customer 0401,Small Business,Stamford,CT,2024-02-15,Search
+402,Customer 0402,Consumer,Allentown,PA,2023-04-28,Social
+403,Customer 0403,Small Business,Jersey City,NJ,2023-01-20,Social
+404,Customer 0404,Small Business,Boston,MA,2026-01-03,Email
+405,Customer 0405,Small Business,Jersey City,NJ,2025-12-03,Direct
+406,Customer 0406,Consumer,Pittsburgh,PA,2025-11-02,Search
+407,Customer 0407,Consumer,Newark,NJ,2023-07-08,Referral
+408,Customer 0408,Consumer,Allentown,PA,2025-01-05,Direct
+409,Customer 0409,Corporate,Newark,NJ,2023-04-02,Social
+410,Customer 0410,Consumer,Philadelphia,PA,2025-01-31,Email
+411,Customer 0411,Consumer,Jersey City,NJ,2023-03-04,Direct
+412,Customer 0412,Consumer,Boston,MA,2023-07-12,Direct
+413,Customer 0413,Consumer,New Haven,CT,2024-03-13,Referral
+414,Customer 0414,Small Business,Hartford,CT,2025-07-04,Direct
+415,Customer 0415,Consumer,Jersey City,NJ,2023-03-19,Search
+416,Customer 0416,Consumer,Hartford,CT,2023-02-26,Direct
+417,Customer 0417,Consumer,Allentown,PA,2025-07-27,Email
+418,Customer 0418,Corporate,Springfield,MA,2025-03-24,Email
+419,Customer 0419,Consumer,Pittsburgh,PA,2024-04-22,Direct
+420,Customer 0420,Small Business,Hartford,CT,2025-07-07,Referral
+421,Customer 0421,Consumer,Edison,NJ,2024-03-30,Referral
+422,Customer 0422,Small Business,Philadelphia,PA,2023-02-26,Email
+423,Customer 0423,Consumer,Allentown,PA,2025-09-17,Search
+424,Customer 0424,Consumer,Philadelphia,PA,2024-02-12,Referral
+425,Customer 0425,Small Business,Springfield,MA,2025-06-22,Email
+426,Customer 0426,Consumer,Stamford,CT,2025-01-31,Email
+427,Customer 0427,Consumer,Pittsburgh,PA,2025-02-16,Search
+428,Customer 0428,Consumer,Edison,NJ,2023-01-26,Search
+429,Customer 0429,Consumer,Buffalo,NY,2024-03-27,Direct
+430,Customer 0430,Small Business,Allentown,PA,2023-10-14,Email
+431,Customer 0431,Consumer,Hartford,CT,2023-06-03,Referral
+432,Customer 0432,Consumer,Philadelphia,PA,2025-09-04,Referral
+433,Customer 0433,Small Business,Jersey City,NJ,2024-03-29,Search
+434,Customer 0434,Consumer,New Haven,CT,2023-10-24,Search
+435,Customer 0435,Consumer,Pittsburgh,PA,2025-04-23,Email
+436,Customer 0436,Consumer,Allentown,PA,2024-08-30,Search
+437,Customer 0437,Consumer,Pittsburgh,PA,2023-08-12,Social
+438,Customer 0438,Consumer,Buffalo,NY,2025-11-17,Search
+439,Customer 0439,Consumer,Worcester,MA,2024-08-09,Search
+440,Customer 0440,Corporate,Pittsburgh,PA,2024-06-19,Search
+441,Customer 0441,Consumer,Albany,NY,2024-08-15,Search
+442,Customer 0442,Corporate,Rochester,NY,2023-10-23,Email
+443,Customer 0443,Consumer,New Haven,CT,2024-11-29,Social
+444,Customer 0444,Consumer,Rochester,NY,2024-01-16,Email
+445,Customer 0445,Consumer,Hartford,CT,2024-07-20,Search
+446,Customer 0446,Consumer,Edison,NJ,2024-04-16,Search
+447,Customer 0447,Small Business,Boston,MA,2023-06-29,Social
+448,Customer 0448,Consumer,Philadelphia,PA,2024-02-26,Search
+449,Customer 0449,Consumer,Worcester,MA,2024-02-19,Direct
+450,Customer 0450,Consumer,New Haven,CT,2023-04-24,Referral
+451,Customer 0451,Consumer,Pittsburgh,PA,2025-10-06,Social
+452,Customer 0452,Consumer,Hartford,CT,2024-06-29,Direct
+453,Customer 0453,Consumer,Philadelphia,PA,2023-12-01,Direct
+454,Customer 0454,Consumer,Boston,MA,2024-12-30,Social
+455,Customer 0455,Consumer,Boston,MA,2023-09-05,Search
+456,Customer 0456,Consumer,Allentown,PA,2025-02-20,Email
+457,Customer 0457,Consumer,Philadelphia,PA,2025-10-10,Email
+458,Customer 0458,Consumer,Springfield,MA,2023-10-03,Email
+459,Customer 0459,Consumer,Edison,NJ,2024-01-09,Referral
+460,Customer 0460,Consumer,Allentown,PA,2023-03-03,Search
+461,Customer 0461,Consumer,Philadelphia,PA,2025-08-08,Social
+462,Customer 0462,Consumer,Rochester,NY,2023-07-12,Email
+463,Customer 0463,Consumer,Philadelphia,PA,2025-08-10,Direct
+464,Customer 0464,Consumer,Philadelphia,PA,2023-09-07,Search
+465,Customer 0465,Small Business,Springfield,MA,2024-04-10,Search
+466,Customer 0466,Consumer,Worcester,MA,2025-03-23,Email
+467,Customer 0467,Consumer,New Haven,CT,2025-05-11,Direct
+468,Customer 0468,Corporate,Boston,MA,2025-03-21,Email
+469,Customer 0469,Consumer,Pittsburgh,PA,2025-03-31,Referral
+470,Customer 0470,Small Business,New Haven,CT,2024-10-18,Direct
+471,Customer 0471,Consumer,Rochester,NY,2025-11-25,Referral
+472,Customer 0472,Consumer,Jersey City,NJ,2023-01-24,Direct
+473,Customer 0473,Consumer,Newark,NJ,2024-10-26,Direct
+474,Customer 0474,Consumer,Buffalo,NY,2023-10-13,Social
+475,Customer 0475,Small Business,New Haven,CT,2023-04-06,Email
+476,Customer 0476,Consumer,Rochester,NY,2024-07-13,Email
+477,Customer 0477,Consumer,Boston,MA,2024-05-28,Email
+478,Customer 0478,Consumer,Hartford,CT,2023-03-22,Referral
+479,Customer 0479,Consumer,Allentown,PA,2023-12-08,Direct
+480,Customer 0480,Consumer,Worcester,MA,2023-06-23,Direct
+481,Customer 0481,Consumer,Jersey City,NJ,2023-09-11,Referral
+482,Customer 0482,Consumer,New Haven,CT,2024-08-13,Email
+483,Customer 0483,Consumer,Worcester,MA,2025-07-19,Direct
+484,Customer 0484,Consumer,Edison,NJ,2025-03-02,Referral
+485,Customer 0485,Consumer,New Haven,CT,2024-09-13,Social
+486,Customer 0486,Consumer,Philadelphia,PA,2024-05-11,Search
+487,Customer 0487,Corporate,Springfield,MA,2025-02-23,Social
+488,Customer 0488,Small Business,Rochester,NY,2023-11-29,Search
+489,Customer 0489,Consumer,Allentown,PA,2024-10-28,Referral
+490,Customer 0490,Small Business,Jersey City,NJ,2023-04-27,Search
+491,Customer 0491,Consumer,Boston,MA,2024-12-13,Email
+492,Customer 0492,Consumer,Worcester,MA,2025-06-19,Email
+493,Customer 0493,Consumer,Boston,MA,2023-11-13,Referral
+494,Customer 0494,Consumer,Edison,NJ,2024-02-19,Referral
+495,Customer 0495,Consumer,Boston,MA,2025-08-31,Search
+496,Customer 0496,Consumer,Hartford,CT,2023-01-09,Direct
+497,Customer 0497,Consumer,Boston,MA,2025-10-16,Direct
+498,Customer 0498,Small Business,Jersey City,NJ,2024-07-26,Direct
+499,Customer 0499,Consumer,Albany,NY,2025-07-15,Referral
+500,Customer 0500,Consumer,Pittsburgh,PA,2024-12-23,Direct
+501,Customer 0501,Consumer,Worcester,MA,2024-10-21,Social
+502,Customer 0502,Consumer,Stamford,CT,2024-09-06,Referral
+503,Customer 0503,Consumer,Jersey City,NJ,2025-02-11,Email
+504,Customer 0504,Corporate,Pittsburgh,PA,2024-05-11,Search
+505,Customer 0505,Consumer,Hartford,CT,2023-02-22,Direct
+506,Customer 0506,Small Business,Stamford,CT,2026-01-03,Direct
+507,Customer 0507,Small Business,Worcester,MA,2025-11-25,Social
+508,Customer 0508,Consumer,Stamford,CT,2025-01-02,Referral
+509,Customer 0509,Consumer,Hartford,CT,2023-05-20,Email
+510,Customer 0510,Consumer,Stamford,CT,2025-10-22,Direct
+511,Customer 0511,Corporate,Boston,MA,2024-01-21,Social
+512,Customer 0512,Consumer,Stamford,CT,2024-12-04,Email
+513,Customer 0513,Consumer,Jersey City,NJ,2024-10-13,Email
+514,Customer 0514,Consumer,Allentown,PA,2023-12-26,Referral
+515,Customer 0515,Consumer,Allentown,PA,2025-05-11,Direct
+516,Customer 0516,Consumer,Allentown,PA,2024-03-01,Search
+517,Customer 0517,Consumer,Hartford,CT,2023-05-04,Direct
+518,Customer 0518,Consumer,Rochester,NY,2023-03-28,Email
+519,Customer 0519,Small Business,Rochester,NY,2023-01-09,Social
+520,Customer 0520,Consumer,New York,NY,2023-03-02,Social
+521,Customer 0521,Small Business,Springfield,MA,2024-06-28,Direct
+522,Customer 0522,Consumer,Boston,MA,2024-02-11,Email
+523,Customer 0523,Small Business,Newark,NJ,2025-11-27,Email
+524,Customer 0524,Consumer,New York,NY,2023-06-05,Direct
+525,Customer 0525,Small Business,Stamford,CT,2025-05-31,Email
+526,Customer 0526,Consumer,Rochester,NY,2023-10-22,Referral
+527,Customer 0527,Consumer,Philadelphia,PA,2023-03-09,Email
+528,Customer 0528,Consumer,Boston,MA,2024-12-15,Direct
+529,Customer 0529,Consumer,Hartford,CT,2023-04-22,Social
+530,Customer 0530,Consumer,Boston,MA,2025-06-19,Search
+531,Customer 0531,Consumer,Newark,NJ,2023-04-01,Direct
+532,Customer 0532,Small Business,Jersey City,NJ,2023-01-13,Social
+533,Customer 0533,Corporate,Pittsburgh,PA,2024-05-31,Social
+534,Customer 0534,Consumer,Buffalo,NY,2025-03-09,Direct
+535,Customer 0535,Consumer,Jersey City,NJ,2024-09-25,Social
+536,Customer 0536,Consumer,Buffalo,NY,2023-06-29,Referral
+537,Customer 0537,Corporate,Hartford,CT,2023-01-16,Referral
+538,Customer 0538,Consumer,New Haven,CT,2025-01-13,Direct
+539,Customer 0539,Consumer,Stamford,CT,2025-04-05,Email
+540,Customer 0540,Consumer,Stamford,CT,2024-05-16,Social
+541,Customer 0541,Consumer,Pittsburgh,PA,2024-04-30,Referral
+542,Customer 0542,Consumer,Rochester,NY,2023-11-16,Search
+543,Customer 0543,Consumer,Buffalo,NY,2024-07-06,Search
+544,Customer 0544,Small Business,Worcester,MA,2025-08-14,Search
+545,Customer 0545,Consumer,Jersey City,NJ,2024-12-23,Social
+546,Customer 0546,Consumer,New Haven,CT,2024-03-02,Social
+547,Customer 0547,Small Business,Boston,MA,2024-04-10,Search
+548,Customer 0548,Consumer,Allentown,PA,2025-06-20,Referral
+549,Customer 0549,Consumer,Boston,MA,2025-04-07,Search
+550,Customer 0550,Consumer,Newark,NJ,2025-11-16,Referral
+551,Customer 0551,Consumer,Hartford,CT,2023-10-25,Social
+552,Customer 0552,Consumer,Buffalo,NY,2024-04-19,Email
+553,Customer 0553,Small Business,Rochester,NY,2025-10-21,Search
+554,Customer 0554,Consumer,Rochester,NY,2023-06-30,Search
+555,Customer 0555,Consumer,Stamford,CT,2024-12-29,Social
+556,Customer 0556,Consumer,Jersey City,NJ,2023-12-28,Referral
+557,Customer 0557,Consumer,Hartford,CT,2025-08-05,Social
+558,Customer 0558,Consumer,Allentown,PA,2023-07-20,Email
+559,Customer 0559,Consumer,Allentown,PA,2024-03-24,Email
+560,Customer 0560,Consumer,Hartford,CT,2023-11-28,Referral
+561,Customer 0561,Consumer,Jersey City,NJ,2023-03-22,Search
+562,Customer 0562,Consumer,Boston,MA,2025-10-16,Referral
+563,Customer 0563,Corporate,New Haven,CT,2024-12-15,Email
+564,Customer 0564,Corporate,Philadelphia,PA,2023-04-07,Email
+565,Customer 0565,Small Business,Rochester,NY,2024-03-06,Referral
+566,Customer 0566,Corporate,Albany,NY,2025-03-17,Direct
+567,Customer 0567,Consumer,Jersey City,NJ,2025-12-15,Social
+568,Customer 0568,Small Business,Stamford,CT,2025-10-27,Social
+569,Customer 0569,Consumer,Boston,MA,2024-02-26,Direct
+570,Customer 0570,Consumer,Jersey City,NJ,2024-01-23,Direct
+571,Customer 0571,Corporate,Philadelphia,PA,2023-12-02,Search
+572,Customer 0572,Corporate,Worcester,MA,2024-05-26,Search
+573,Customer 0573,Consumer,Pittsburgh,PA,2025-04-23,Referral
+574,Customer 0574,Consumer,Newark,NJ,2025-09-23,Search
+575,Customer 0575,Consumer,Newark,NJ,2025-11-21,Search
+576,Customer 0576,Consumer,Allentown,PA,2024-09-05,Search
+577,Customer 0577,Consumer,Springfield,MA,2024-05-08,Email
+578,Customer 0578,Consumer,Worcester,MA,2023-12-13,Search
+579,Customer 0579,Small Business,Worcester,MA,2025-04-11,Email
+580,Customer 0580,Consumer,Philadelphia,PA,2025-01-08,Email
+581,Customer 0581,Consumer,Rochester,NY,2024-09-14,Referral
+582,Customer 0582,Consumer,Hartford,CT,2023-11-27,Social
+583,Customer 0583,Consumer,Worcester,MA,2024-08-15,Email
+584,Customer 0584,Corporate,New York,NY,2025-08-17,Social
+585,Customer 0585,Consumer,Rochester,NY,2024-06-25,Social
+586,Customer 0586,Small Business,Stamford,CT,2024-01-24,Referral
+587,Customer 0587,Consumer,Rochester,NY,2023-07-06,Direct
+588,Customer 0588,Consumer,Allentown,PA,2024-05-18,Email
+589,Customer 0589,Consumer,Albany,NY,2023-10-25,Search
+590,Customer 0590,Consumer,Springfield,MA,2023-12-12,Referral
+591,Customer 0591,Consumer,Worcester,MA,2025-02-15,Referral
+592,Customer 0592,Consumer,Philadelphia,PA,2025-01-24,Referral
+593,Customer 0593,Consumer,Philadelphia,PA,2023-04-29,Direct
+594,Customer 0594,Consumer,Hartford,CT,2024-03-19,Social
+595,Customer 0595,Consumer,Jersey City,NJ,2023-06-14,Search
+596,Customer 0596,Consumer,Newark,NJ,2025-06-26,Social
+597,Customer 0597,Consumer,New York,NY,2025-06-19,Search
+598,Customer 0598,Small Business,Philadelphia,PA,2023-03-07,Direct
+599,Customer 0599,Consumer,Hartford,CT,2024-08-03,Email
+600,Customer 0600,Small Business,Springfield,MA,2025-05-12,Email
+601,Customer 0601,Small Business,Hartford,CT,2023-12-28,Search
+602,Customer 0602,Consumer,Stamford,CT,2023-01-09,Direct
+603,Customer 0603,Consumer,Allentown,PA,2024-02-05,Direct
+604,Customer 0604,Consumer,Allentown,PA,2025-08-01,Direct
+605,Customer 0605,Small Business,Jersey City,NJ,2023-06-16,Email
+606,Customer 0606,Consumer,Allentown,PA,2024-08-31,Social
+607,Customer 0607,Consumer,Pittsburgh,PA,2023-10-08,Referral
+608,Customer 0608,Small Business,Springfield,MA,2023-02-27,Search
+609,Customer 0609,Consumer,New Haven,CT,2023-06-24,Direct
+610,Customer 0610,Consumer,Allentown,PA,2025-05-02,Search
+611,Customer 0611,Consumer,Worcester,MA,2025-03-22,Search
+612,Customer 0612,Consumer,Newark,NJ,2023-08-18,Referral
+613,Customer 0613,Consumer,Buffalo,NY,2025-12-23,Social
+614,Customer 0614,Consumer,Edison,NJ,2025-07-27,Direct
+615,Customer 0615,Consumer,New York,NY,2025-04-15,Social
+616,Customer 0616,Consumer,Edison,NJ,2025-11-04,Email
+617,Customer 0617,Small Business,Boston,MA,2025-07-31,Social
+618,Customer 0618,Consumer,Boston,MA,2024-01-28,Email
+619,Customer 0619,Consumer,Jersey City,NJ,2023-04-28,Email
+620,Customer 0620,Consumer,Philadelphia,PA,2023-02-01,Search
+621,Customer 0621,Consumer,Stamford,CT,2023-09-04,Social
+622,Customer 0622,Small Business,Buffalo,NY,2023-08-23,Referral
+623,Customer 0623,Small Business,Jersey City,NJ,2024-11-30,Email
+624,Customer 0624,Consumer,Philadelphia,PA,2024-05-05,Direct
+625,Customer 0625,Consumer,Allentown,PA,2025-09-28,Direct
+626,Customer 0626,Consumer,Philadelphia,PA,2024-12-29,Direct
+627,Customer 0627,Consumer,New York,NY,2024-05-11,Search
+628,Customer 0628,Consumer,Hartford,CT,2025-06-19,Email
+629,Customer 0629,Small Business,Hartford,CT,2023-06-01,Search
+630,Customer 0630,Small Business,Edison,NJ,2024-08-16,Social
+631,Customer 0631,Consumer,Edison,NJ,2024-05-27,Referral
+632,Customer 0632,Consumer,Hartford,CT,2023-02-20,Search
+633,Customer 0633,Small Business,New Haven,CT,2025-09-18,Email
+634,Customer 0634,Small Business,Buffalo,NY,2025-03-14,Search
+635,Customer 0635,Small Business,Stamford,CT,2024-04-14,Direct
+636,Customer 0636,Consumer,Boston,MA,2025-01-09,Search
+637,Customer 0637,Consumer,Philadelphia,PA,2023-03-31,Referral
+638,Customer 0638,Consumer,Stamford,CT,2025-08-17,Referral
+639,Customer 0639,Consumer,Philadelphia,PA,2024-11-18,Referral
+640,Customer 0640,Consumer,Newark,NJ,2024-05-24,Direct
+641,Customer 0641,Consumer,Buffalo,NY,2023-10-22,Referral
+642,Customer 0642,Consumer,Rochester,NY,2024-12-31,Direct
+643,Customer 0643,Small Business,Boston,MA,2023-03-11,Email
+644,Customer 0644,Consumer,Jersey City,NJ,2023-07-22,Referral
+645,Customer 0645,Consumer,Newark,NJ,2023-05-28,Referral
+646,Customer 0646,Consumer,Allentown,PA,2024-05-17,Direct
+647,Customer 0647,Consumer,Stamford,CT,2023-05-04,Referral
+648,Customer 0648,Small Business,New Haven,CT,2025-01-22,Search
+649,Customer 0649,Consumer,Philadelphia,PA,2023-10-05,Social
+650,Customer 0650,Consumer,Stamford,CT,2025-03-22,Referral
+651,Customer 0651,Consumer,Edison,NJ,2023-05-16,Referral
+652,Customer 0652,Consumer,Allentown,PA,2024-11-28,Search
+653,Customer 0653,Consumer,Boston,MA,2024-01-02,Referral
+654,Customer 0654,Small Business,Stamford,CT,2025-05-27,Email
+655,Customer 0655,Consumer,Stamford,CT,2023-12-25,Referral
+656,Customer 0656,Consumer,Boston,MA,2023-12-04,Search
+657,Customer 0657,Consumer,Buffalo,NY,2023-04-08,Search
+658,Customer 0658,Consumer,Worcester,MA,2025-10-24,Search
+659,Customer 0659,Corporate,Edison,NJ,2023-04-27,Direct
+660,Customer 0660,Small Business,New York,NY,2023-05-31,Direct
+661,Customer 0661,Consumer,Allentown,PA,2023-10-07,Referral
+662,Customer 0662,Consumer,Springfield,MA,2023-01-31,Email
+663,Customer 0663,Small Business,Jersey City,NJ,2024-10-31,Email
+664,Customer 0664,Consumer,Stamford,CT,2024-11-22,Social
+665,Customer 0665,Small Business,New York,NY,2024-11-16,Direct
+666,Customer 0666,Small Business,Stamford,CT,2025-08-06,Email
+667,Customer 0667,Consumer,Allentown,PA,2024-10-03,Direct
+668,Customer 0668,Consumer,Philadelphia,PA,2023-07-11,Search
+669,Customer 0669,Consumer,Edison,NJ,2023-07-04,Referral
+670,Customer 0670,Consumer,Stamford,CT,2023-11-11,Direct
+671,Customer 0671,Small Business,Worcester,MA,2024-04-16,Referral
+672,Customer 0672,Consumer,Hartford,CT,2024-09-25,Direct
+673,Customer 0673,Consumer,New Haven,CT,2024-07-23,Direct
+674,Customer 0674,Consumer,Philadelphia,PA,2024-06-01,Social
+675,Customer 0675,Corporate,Rochester,NY,2023-11-05,Search
+676,Customer 0676,Consumer,Hartford,CT,2023-02-27,Email
+677,Customer 0677,Consumer,Buffalo,NY,2024-01-08,Direct
+678,Customer 0678,Small Business,Allentown,PA,2023-11-02,Search
+679,Customer 0679,Small Business,Boston,MA,2024-12-19,Search
+680,Customer 0680,Consumer,Stamford,CT,2024-03-12,Referral
+681,Customer 0681,Consumer,Stamford,CT,2024-03-10,Email
+682,Customer 0682,Small Business,New York,NY,2023-05-15,Social
+683,Customer 0683,Consumer,Philadelphia,PA,2024-04-12,Social
+684,Customer 0684,Consumer,New Haven,CT,2024-04-03,Email
+685,Customer 0685,Consumer,Allentown,PA,2025-06-07,Referral
+686,Customer 0686,Consumer,Jersey City,NJ,2025-05-21,Referral
+687,Customer 0687,Consumer,Hartford,CT,2023-11-17,Referral
+688,Customer 0688,Consumer,Jersey City,NJ,2024-08-01,Email
+689,Customer 0689,Consumer,Hartford,CT,2023-11-27,Direct
+690,Customer 0690,Consumer,Worcester,MA,2024-03-10,Search
+691,Customer 0691,Consumer,Philadelphia,PA,2025-06-18,Search
+692,Customer 0692,Small Business,Allentown,PA,2023-02-20,Search
+693,Customer 0693,Consumer,Buffalo,NY,2024-09-11,Referral
+694,Customer 0694,Consumer,Buffalo,NY,2025-08-09,Email
+695,Customer 0695,Small Business,Stamford,CT,2025-03-23,Email
+696,Customer 0696,Small Business,Boston,MA,2024-02-17,Email
+697,Customer 0697,Consumer,Buffalo,NY,2025-10-30,Direct
+698,Customer 0698,Small Business,New Haven,CT,2023-08-03,Email
+699,Customer 0699,Consumer,Philadelphia,PA,2023-08-14,Social
+700,Customer 0700,Consumer,Edison,NJ,2025-05-27,Search
+701,Customer 0701,Corporate,Boston,MA,2025-10-22,Direct
+702,Customer 0702,Consumer,Pittsburgh,PA,2023-06-08,Search
+703,Customer 0703,Consumer,Edison,NJ,2023-05-29,Search
+704,Customer 0704,Consumer,Rochester,NY,2024-07-04,Email
+705,Customer 0705,Consumer,Edison,NJ,2023-04-09,Direct
+706,Customer 0706,Consumer,Pittsburgh,PA,2023-01-22,Email
+707,Customer 0707,Consumer,New Haven,CT,2024-07-31,Social
+708,Customer 0708,Consumer,Pittsburgh,PA,2025-05-14,Social
+709,Customer 0709,Small Business,Hartford,CT,2025-03-03,Social
+710,Customer 0710,Consumer,Edison,NJ,2023-01-11,Direct
+711,Customer 0711,Corporate,Allentown,PA,2025-02-11,Search
+712,Customer 0712,Small Business,New York,NY,2023-03-10,Email
+713,Customer 0713,Consumer,New Haven,CT,2024-10-26,Social
+714,Customer 0714,Consumer,Springfield,MA,2024-10-08,Direct
+715,Customer 0715,Consumer,Albany,NY,2025-08-21,Direct
+716,Customer 0716,Small Business,Worcester,MA,2024-04-25,Social
+717,Customer 0717,Consumer,Allentown,PA,2023-05-12,Direct
+718,Customer 0718,Consumer,Allentown,PA,2024-10-21,Direct
+719,Customer 0719,Consumer,Edison,NJ,2024-06-26,Social
+720,Customer 0720,Consumer,Allentown,PA,2025-09-03,Search
+721,Customer 0721,Consumer,Rochester,NY,2025-12-09,Search
+722,Customer 0722,Consumer,Philadelphia,PA,2023-12-19,Social
+723,Customer 0723,Consumer,Edison,NJ,2023-03-30,Referral
+724,Customer 0724,Consumer,Hartford,CT,2025-04-19,Referral
+725,Customer 0725,Consumer,Hartford,CT,2025-01-17,Direct
+726,Customer 0726,Consumer,Worcester,MA,2025-07-16,Referral
+727,Customer 0727,Consumer,Stamford,CT,2025-07-02,Social
+728,Customer 0728,Small Business,New Haven,CT,2023-12-24,Search
+729,Customer 0729,Consumer,Buffalo,NY,2025-01-21,Search
+730,Customer 0730,Consumer,Worcester,MA,2025-12-07,Social
+731,Customer 0731,Consumer,Philadelphia,PA,2024-02-16,Referral
+732,Customer 0732,Consumer,Buffalo,NY,2024-09-19,Referral
+733,Customer 0733,Consumer,Pittsburgh,PA,2024-05-10,Social
+734,Customer 0734,Consumer,Albany,NY,2023-07-01,Social
+735,Customer 0735,Corporate,Allentown,PA,2025-01-31,Social
+736,Customer 0736,Consumer,Stamford,CT,2023-03-27,Referral
+737,Customer 0737,Consumer,Stamford,CT,2024-06-09,Social
+738,Customer 0738,Corporate,Boston,MA,2024-01-28,Direct
+739,Customer 0739,Consumer,Philadelphia,PA,2024-02-21,Email
+740,Customer 0740,Consumer,Albany,NY,2025-02-16,Social
+741,Customer 0741,Consumer,New Haven,CT,2023-02-22,Direct
+742,Customer 0742,Consumer,Stamford,CT,2025-06-12,Social
+743,Customer 0743,Consumer,Newark,NJ,2025-06-19,Search
+744,Customer 0744,Small Business,Boston,MA,2024-04-20,Social
+745,Customer 0745,Consumer,Boston,MA,2024-08-25,Social
+746,Customer 0746,Consumer,Hartford,CT,2023-07-04,Email
+747,Customer 0747,Consumer,Boston,MA,2023-07-28,Search
+748,Customer 0748,Small Business,Worcester,MA,2023-04-23,Search
+749,Customer 0749,Consumer,Pittsburgh,PA,2023-04-23,Social
+750,Customer 0750,Small Business,Boston,MA,2025-04-13,Search
+751,Customer 0751,Consumer,Pittsburgh,PA,2024-01-25,Email
+752,Customer 0752,Consumer,Edison,NJ,2024-07-16,Email
+753,Customer 0753,Consumer,Pittsburgh,PA,2024-06-06,Referral
+754,Customer 0754,Small Business,Worcester,MA,2025-11-12,Email
+755,Customer 0755,Small Business,Pittsburgh,PA,2024-05-23,Social
+756,Customer 0756,Consumer,Worcester,MA,2024-09-16,Email
+757,Customer 0757,Corporate,Edison,NJ,2025-02-04,Social
+758,Customer 0758,Corporate,Boston,MA,2025-01-19,Referral
+759,Customer 0759,Small Business,Jersey City,NJ,2023-04-15,Email
+760,Customer 0760,Corporate,Boston,MA,2025-04-17,Referral
+761,Customer 0761,Small Business,Rochester,NY,2024-03-25,Referral
+762,Customer 0762,Small Business,Edison,NJ,2024-03-04,Direct
+763,Customer 0763,Corporate,Worcester,MA,2025-04-11,Social
+764,Customer 0764,Consumer,Newark,NJ,2023-04-29,Email
+765,Customer 0765,Small Business,Buffalo,NY,2023-05-28,Social
+766,Customer 0766,Consumer,Newark,NJ,2023-12-03,Referral
+767,Customer 0767,Consumer,Edison,NJ,2023-11-22,Search
+768,Customer 0768,Consumer,Boston,MA,2025-08-11,Email
+769,Customer 0769,Consumer,Albany,NY,2024-04-03,Referral
+770,Customer 0770,Consumer,New Haven,CT,2025-05-19,Email
+771,Customer 0771,Small Business,Newark,NJ,2023-11-24,Referral
+772,Customer 0772,Consumer,Edison,NJ,2024-10-14,Search
+773,Customer 0773,Consumer,Pittsburgh,PA,2024-10-26,Search
+774,Customer 0774,Consumer,Edison,NJ,2024-04-17,Email
+775,Customer 0775,Consumer,Pittsburgh,PA,2023-11-16,Search
+776,Customer 0776,Consumer,Springfield,MA,2023-07-11,Search
+777,Customer 0777,Consumer,Jersey City,NJ,2024-11-13,Email
+778,Customer 0778,Consumer,Rochester,NY,2023-09-08,Search
+779,Customer 0779,Consumer,Springfield,MA,2023-05-30,Referral
+780,Customer 0780,Consumer,Albany,NY,2023-07-10,Referral
+781,Customer 0781,Consumer,Allentown,PA,2023-07-01,Social
+782,Customer 0782,Consumer,Philadelphia,PA,2024-09-06,Direct
+783,Customer 0783,Consumer,New York,NY,2024-12-06,Search
+784,Customer 0784,Consumer,Philadelphia,PA,2023-12-19,Social
+785,Customer 0785,Small Business,Hartford,CT,2024-11-05,Search
+786,Customer 0786,Small Business,Rochester,NY,2023-05-23,Social
+787,Customer 0787,Consumer,New York,NY,2023-11-27,Social
+788,Customer 0788,Consumer,New York,NY,2023-03-23,Email
+789,Customer 0789,Consumer,New Haven,CT,2023-09-28,Referral
+790,Customer 0790,Consumer,Rochester,NY,2023-12-02,Email
+791,Customer 0791,Consumer,Philadelphia,PA,2025-09-10,Referral
+792,Customer 0792,Consumer,New York,NY,2024-05-03,Social
+793,Customer 0793,Consumer,Allentown,PA,2023-08-29,Search
+794,Customer 0794,Consumer,Edison,NJ,2026-01-01,Referral
+795,Customer 0795,Consumer,Philadelphia,PA,2024-08-03,Search
+796,Customer 0796,Consumer,Newark,NJ,2025-12-31,Email
+797,Customer 0797,Consumer,New York,NY,2023-04-20,Direct
+798,Customer 0798,Consumer,Edison,NJ,2024-04-14,Search
+799,Customer 0799,Consumer,Jersey City,NJ,2023-03-05,Direct
+800,Customer 0800,Consumer,Boston,MA,2024-08-20,Email
+801,Customer 0801,Consumer,Buffalo,NY,2024-04-24,Direct
+802,Customer 0802,Consumer,Buffalo,NY,2023-05-30,Email
+803,Customer 0803,Small Business,Buffalo,NY,2023-12-24,Referral
+804,Customer 0804,Consumer,Albany,NY,2024-01-10,Social
+805,Customer 0805,Small Business,Hartford,CT,2023-06-30,Search
+806,Customer 0806,Consumer,Springfield,MA,2023-12-09,Referral
+807,Customer 0807,Corporate,Newark,NJ,2024-02-10,Referral
+808,Customer 0808,Consumer,New York,NY,2025-09-09,Direct
+809,Customer 0809,Consumer,Philadelphia,PA,2023-05-09,Email
+810,Customer 0810,Consumer,Pittsburgh,PA,2023-07-09,Referral
+811,Customer 0811,Consumer,Boston,MA,2025-10-05,Social
+812,Customer 0812,Small Business,Jersey City,NJ,2024-09-12,Social
+813,Customer 0813,Consumer,Boston,MA,2025-06-10,Direct
+814,Customer 0814,Consumer,Allentown,PA,2025-12-24,Email
+815,Customer 0815,Consumer,Rochester,NY,2024-04-20,Direct
+816,Customer 0816,Small Business,New Haven,CT,2024-04-29,Direct
+817,Customer 0817,Small Business,Albany,NY,2025-03-19,Referral
+818,Customer 0818,Consumer,Stamford,CT,2023-06-28,Referral
+819,Customer 0819,Consumer,Worcester,MA,2024-09-16,Social
+820,Customer 0820,Small Business,Boston,MA,2023-08-15,Social
+821,Customer 0821,Consumer,Stamford,CT,2024-09-05,Referral
+822,Customer 0822,Consumer,Boston,MA,2023-06-20,Social
+823,Customer 0823,Consumer,Boston,MA,2024-08-21,Referral
+824,Customer 0824,Consumer,Edison,NJ,2025-06-24,Direct
+825,Customer 0825,Consumer,Newark,NJ,2024-03-19,Email
+826,Customer 0826,Consumer,Hartford,CT,2025-03-09,Search
+827,Customer 0827,Consumer,Philadelphia,PA,2024-04-04,Direct
+828,Customer 0828,Consumer,Stamford,CT,2025-10-20,Direct
+829,Customer 0829,Consumer,Boston,MA,2023-11-29,Email
+830,Customer 0830,Corporate,Buffalo,NY,2023-08-01,Social
+831,Customer 0831,Small Business,Springfield,MA,2024-05-28,Email
+832,Customer 0832,Consumer,Springfield,MA,2025-11-18,Search
+833,Customer 0833,Consumer,Allentown,PA,2025-05-02,Direct
+834,Customer 0834,Corporate,Pittsburgh,PA,2024-06-29,Referral
+835,Customer 0835,Corporate,Allentown,PA,2025-02-08,Email
+836,Customer 0836,Consumer,Stamford,CT,2025-01-14,Email
+837,Customer 0837,Consumer,New York,NY,2025-02-11,Direct
+838,Customer 0838,Consumer,Edison,NJ,2025-07-28,Referral
+839,Customer 0839,Corporate,Hartford,CT,2023-01-15,Referral
+840,Customer 0840,Consumer,Newark,NJ,2025-11-06,Social
+841,Customer 0841,Consumer,Edison,NJ,2024-07-29,Search
+842,Customer 0842,Consumer,Allentown,PA,2023-02-22,Social
+843,Customer 0843,Corporate,Albany,NY,2025-10-06,Referral
+844,Customer 0844,Small Business,Pittsburgh,PA,2023-11-28,Social
+845,Customer 0845,Consumer,Rochester,NY,2023-10-14,Email
+846,Customer 0846,Consumer,Jersey City,NJ,2025-12-02,Referral
+847,Customer 0847,Small Business,Rochester,NY,2025-02-23,Referral
+848,Customer 0848,Small Business,Jersey City,NJ,2024-09-25,Social
+849,Customer 0849,Corporate,Edison,NJ,2024-10-19,Social
+850,Customer 0850,Consumer,Rochester,NY,2025-01-10,Social
+851,Customer 0851,Consumer,Stamford,CT,2023-08-19,Direct
+852,Customer 0852,Consumer,New Haven,CT,2025-04-16,Referral
+853,Customer 0853,Small Business,Buffalo,NY,2024-07-25,Social
+854,Customer 0854,Small Business,Springfield,MA,2025-04-23,Referral
+855,Customer 0855,Consumer,Stamford,CT,2025-03-21,Referral
+856,Customer 0856,Small Business,Rochester,NY,2025-07-09,Email
+857,Customer 0857,Consumer,Springfield,MA,2024-09-17,Referral
+858,Customer 0858,Small Business,Philadelphia,PA,2023-05-24,Email
+859,Customer 0859,Small Business,Springfield,MA,2025-04-25,Email
+860,Customer 0860,Corporate,Philadelphia,PA,2023-12-28,Email
+861,Customer 0861,Consumer,Stamford,CT,2024-11-30,Social
+862,Customer 0862,Consumer,Pittsburgh,PA,2024-01-16,Search
+863,Customer 0863,Consumer,Springfield,MA,2025-12-03,Referral
+864,Customer 0864,Consumer,Newark,NJ,2024-11-24,Social
+865,Customer 0865,Consumer,New York,NY,2024-04-27,Social
+866,Customer 0866,Small Business,Edison,NJ,2024-07-14,Search
+867,Customer 0867,Consumer,Newark,NJ,2024-05-03,Referral
+868,Customer 0868,Consumer,Albany,NY,2024-08-11,Social
+869,Customer 0869,Small Business,Worcester,MA,2023-05-18,Direct
+870,Customer 0870,Small Business,Worcester,MA,2024-03-12,Referral
+871,Customer 0871,Consumer,Rochester,NY,2023-06-11,Direct
+872,Customer 0872,Consumer,New York,NY,2024-10-27,Social
+873,Customer 0873,Consumer,Jersey City,NJ,2024-07-17,Social
+874,Customer 0874,Consumer,Springfield,MA,2023-03-08,Social
+875,Customer 0875,Consumer,Albany,NY,2024-04-04,Referral
+876,Customer 0876,Consumer,Allentown,PA,2024-04-16,Search
+877,Customer 0877,Consumer,Allentown,PA,2026-01-04,Search
+878,Customer 0878,Consumer,Newark,NJ,2025-10-30,Referral
+879,Customer 0879,Consumer,Rochester,NY,2023-07-03,Social
+880,Customer 0880,Consumer,New Haven,CT,2025-04-17,Email
+881,Customer 0881,Consumer,Allentown,PA,2024-11-05,Referral
+882,Customer 0882,Consumer,Albany,NY,2023-10-01,Direct
+883,Customer 0883,Consumer,Hartford,CT,2024-11-30,Email
+884,Customer 0884,Small Business,Hartford,CT,2024-08-01,Email
+885,Customer 0885,Small Business,Boston,MA,2025-06-17,Search
+886,Customer 0886,Small Business,Philadelphia,PA,2024-08-29,Email
+887,Customer 0887,Consumer,Springfield,MA,2023-02-02,Search
+888,Customer 0888,Consumer,Hartford,CT,2024-06-24,Search
+889,Customer 0889,Corporate,Springfield,MA,2024-10-08,Referral
+890,Customer 0890,Consumer,New York,NY,2023-12-25,Social
+891,Customer 0891,Consumer,Albany,NY,2023-07-29,Search
+892,Customer 0892,Corporate,Pittsburgh,PA,2025-09-22,Referral
+893,Customer 0893,Small Business,Pittsburgh,PA,2023-09-20,Direct
+894,Customer 0894,Consumer,Worcester,MA,2025-11-06,Referral
+895,Customer 0895,Corporate,Allentown,PA,2023-02-13,Search
+896,Customer 0896,Small Business,Allentown,PA,2025-06-13,Social
+897,Customer 0897,Consumer,Jersey City,NJ,2023-10-02,Email
+898,Customer 0898,Consumer,Edison,NJ,2025-12-24,Email
+899,Customer 0899,Consumer,Albany,NY,2023-03-30,Direct
+900,Customer 0900,Consumer,Boston,MA,2024-10-24,Direct
+901,Customer 0901,Consumer,Stamford,CT,2024-02-26,Search
+902,Customer 0902,Consumer,Pittsburgh,PA,2023-08-02,Search
+903,Customer 0903,Consumer,Jersey City,NJ,2025-07-23,Social
+904,Customer 0904,Consumer,New York,NY,2025-08-21,Search
+905,Customer 0905,Consumer,New Haven,CT,2025-08-24,Email
+906,Customer 0906,Consumer,New Haven,CT,2025-02-20,Search
+907,Customer 0907,Consumer,Newark,NJ,2025-03-14,Search
+908,Customer 0908,Small Business,Buffalo,NY,2023-07-12,Search
+909,Customer 0909,Consumer,New York,NY,2025-08-13,Search
+910,Customer 0910,Corporate,Edison,NJ,2023-04-01,Direct
+911,Customer 0911,Consumer,Stamford,CT,2023-03-26,Email
+912,Customer 0912,Consumer,Hartford,CT,2023-07-17,Direct
+913,Customer 0913,Consumer,Edison,NJ,2025-11-14,Direct
+914,Customer 0914,Small Business,Hartford,CT,2023-05-28,Direct
+915,Customer 0915,Consumer,New York,NY,2023-04-22,Direct
+916,Customer 0916,Consumer,Pittsburgh,PA,2025-03-23,Direct
+917,Customer 0917,Small Business,Newark,NJ,2024-01-19,Social
+918,Customer 0918,Consumer,Newark,NJ,2024-02-29,Email
+919,Customer 0919,Consumer,Boston,MA,2025-11-30,Email
+920,Customer 0920,Consumer,Buffalo,NY,2023-07-27,Referral
+921,Customer 0921,Consumer,Pittsburgh,PA,2024-08-28,Direct
+922,Customer 0922,Consumer,Worcester,MA,2024-01-29,Email
+923,Customer 0923,Consumer,New York,NY,2024-03-14,Social
+924,Customer 0924,Small Business,New Haven,CT,2024-03-07,Email
+925,Customer 0925,Consumer,New York,NY,2023-03-04,Search
+926,Customer 0926,Consumer,Hartford,CT,2024-01-04,Referral
+927,Customer 0927,Consumer,Stamford,CT,2023-10-02,Referral
+928,Customer 0928,Consumer,Philadelphia,PA,2024-10-26,Search
+929,Customer 0929,Small Business,Hartford,CT,2025-08-27,Referral
+930,Customer 0930,Consumer,Philadelphia,PA,2023-01-27,Email
+931,Customer 0931,Corporate,Philadelphia,PA,2024-12-31,Referral
+932,Customer 0932,Small Business,Buffalo,NY,2024-12-02,Direct
+933,Customer 0933,Small Business,Newark,NJ,2023-03-14,Referral
+934,Customer 0934,Consumer,New Haven,CT,2024-11-21,Direct
+935,Customer 0935,Consumer,Albany,NY,2023-11-26,Email
+936,Customer 0936,Corporate,Boston,MA,2025-04-14,Direct
+937,Customer 0937,Consumer,Buffalo,NY,2024-03-22,Email
+938,Customer 0938,Corporate,Pittsburgh,PA,2023-08-31,Search
+939,Customer 0939,Consumer,Worcester,MA,2023-12-07,Referral
+940,Customer 0940,Consumer,Hartford,CT,2024-11-30,Email
+941,Customer 0941,Consumer,Buffalo,NY,2024-06-15,Direct
+942,Customer 0942,Consumer,Edison,NJ,2023-05-23,Social
+943,Customer 0943,Small Business,Philadelphia,PA,2023-05-11,Direct
+944,Customer 0944,Consumer,New York,NY,2025-01-10,Direct
+945,Customer 0945,Consumer,Albany,NY,2025-11-11,Referral
+946,Customer 0946,Consumer,Hartford,CT,2023-07-24,Social
+947,Customer 0947,Consumer,New Haven,CT,2023-12-21,Email
+948,Customer 0948,Small Business,Stamford,CT,2024-10-22,Email
+949,Customer 0949,Small Business,Hartford,CT,2023-08-07,Referral
+950,Customer 0950,Small Business,Pittsburgh,PA,2023-01-21,Email
+951,Customer 0951,Consumer,Buffalo,NY,2024-09-30,Search
+952,Customer 0952,Consumer,Buffalo,NY,2025-09-12,Email
+953,Customer 0953,Consumer,Stamford,CT,2023-07-02,Search
+954,Customer 0954,Consumer,New York,NY,2024-08-28,Search
+955,Customer 0955,Consumer,Pittsburgh,PA,2023-12-28,Referral
+956,Customer 0956,Consumer,Pittsburgh,PA,2023-12-07,Email
+957,Customer 0957,Small Business,Newark,NJ,2024-08-07,Email
+958,Customer 0958,Small Business,Edison,NJ,2024-02-02,Social
+959,Customer 0959,Consumer,Philadelphia,PA,2025-08-24,Email
+960,Customer 0960,Small Business,New York,NY,2025-02-11,Search
+961,Customer 0961,Consumer,Philadelphia,PA,2025-08-25,Email
+962,Customer 0962,Consumer,Albany,NY,2025-10-04,Email
+963,Customer 0963,Small Business,Stamford,CT,2023-12-22,Social
+964,Customer 0964,Consumer,Hartford,CT,2023-08-31,Referral
+965,Customer 0965,Consumer,Pittsburgh,PA,2025-08-18,Referral
+966,Customer 0966,Consumer,Boston,MA,2023-05-27,Social
+967,Customer 0967,Consumer,Edison,NJ,2025-02-09,Social
+968,Customer 0968,Consumer,Boston,MA,2024-05-05,Direct
+969,Customer 0969,Consumer,Philadelphia,PA,2023-07-27,Referral
+970,Customer 0970,Consumer,Stamford,CT,2023-09-27,Social
+971,Customer 0971,Consumer,Philadelphia,PA,2024-02-25,Referral
+972,Customer 0972,Consumer,New York,NY,2025-08-30,Search
+973,Customer 0973,Small Business,Boston,MA,2025-11-20,Social
+974,Customer 0974,Consumer,Buffalo,NY,2025-10-18,Search
+975,Customer 0975,Small Business,Philadelphia,PA,2025-03-04,Referral
+976,Customer 0976,Consumer,Rochester,NY,2024-01-08,Email
+977,Customer 0977,Consumer,Worcester,MA,2023-06-17,Email
+978,Customer 0978,Small Business,Pittsburgh,PA,2023-10-15,Referral
+979,Customer 0979,Corporate,Allentown,PA,2024-02-13,Social
+980,Customer 0980,Consumer,Buffalo,NY,2023-01-26,Social
+981,Customer 0981,Consumer,Newark,NJ,2025-09-04,Social
+982,Customer 0982,Consumer,Edison,NJ,2024-03-19,Social
+983,Customer 0983,Consumer,Jersey City,NJ,2025-07-24,Referral
+984,Customer 0984,Consumer,Albany,NY,2023-12-30,Email
+985,Customer 0985,Consumer,Worcester,MA,2023-11-28,Email
+986,Customer 0986,Consumer,Edison,NJ,2024-06-12,Social
+987,Customer 0987,Consumer,Springfield,MA,2025-03-02,Search
+988,Customer 0988,Corporate,Boston,MA,2024-07-14,Search
+989,Customer 0989,Consumer,Edison,NJ,2023-10-05,Email
+990,Customer 0990,Consumer,Newark,NJ,2025-05-15,Direct
+991,Customer 0991,Small Business,Stamford,CT,2024-06-02,Search
+992,Customer 0992,Corporate,Edison,NJ,2024-07-04,Social
+993,Customer 0993,Small Business,New York,NY,2025-06-11,Email
+994,Customer 0994,Consumer,Rochester,NY,2023-05-25,Search
+995,Customer 0995,Consumer,Jersey City,NJ,2023-05-31,Referral
+996,Customer 0996,Consumer,Springfield,MA,2023-08-27,Social
+997,Customer 0997,Small Business,Springfield,MA,2025-01-26,Direct
+998,Customer 0998,Consumer,Jersey City,NJ,2023-06-05,Referral
+999,Customer 0999,Small Business,Worcester,MA,2024-01-07,Referral
+1000,Customer 1000,Corporate,Jersey City,NJ,2025-01-20,Referral
+1001,Customer 1001,Consumer,New York,NY,2025-08-24,Referral
+1002,Customer 1002,Consumer,Albany,NY,2025-08-31,Search
+1003,Customer 1003,Corporate,Stamford,CT,2024-04-21,Email
+1004,Customer 1004,Consumer,Edison,NJ,2025-04-17,Search
+1005,Customer 1005,Consumer,Jersey City,NJ,2025-01-06,Social
+1006,Customer 1006,Consumer,Philadelphia,PA,2024-03-31,Referral
+1007,Customer 1007,Consumer,New York,NY,2025-11-10,Social
+1008,Customer 1008,Consumer,Worcester,MA,2023-06-09,Social
+1009,Customer 1009,Consumer,Allentown,PA,2024-12-29,Social
+1010,Customer 1010,Consumer,Philadelphia,PA,2025-09-13,Search
+1011,Customer 1011,Corporate,Stamford,CT,2023-08-28,Referral
+1012,Customer 1012,Consumer,Springfield,MA,2024-02-22,Direct
+1013,Customer 1013,Consumer,Jersey City,NJ,2024-09-08,Search
+1014,Customer 1014,Consumer,Albany,NY,2023-04-04,Email
+1015,Customer 1015,Small Business,Springfield,MA,2025-04-24,Referral
+1016,Customer 1016,Small Business,New York,NY,2023-01-10,Email
+1017,Customer 1017,Consumer,Newark,NJ,2023-12-22,Referral
+1018,Customer 1018,Consumer,Newark,NJ,2023-02-19,Email
+1019,Customer 1019,Consumer,Newark,NJ,2025-08-20,Direct
+1020,Customer 1020,Consumer,Pittsburgh,PA,2024-08-20,Social
+1021,Customer 1021,Corporate,Pittsburgh,PA,2023-04-23,Referral
+1022,Customer 1022,Consumer,Jersey City,NJ,2023-07-07,Email
+1023,Customer 1023,Consumer,Philadelphia,PA,2024-11-04,Social
+1024,Customer 1024,Small Business,Newark,NJ,2023-04-15,Social
+1025,Customer 1025,Consumer,Stamford,CT,2023-02-04,Email
+1026,Customer 1026,Consumer,Hartford,CT,2023-05-15,Search
+1027,Customer 1027,Consumer,Stamford,CT,2024-04-18,Social
+1028,Customer 1028,Consumer,Worcester,MA,2023-10-11,Direct
+1029,Customer 1029,Consumer,Newark,NJ,2025-07-25,Referral
+1030,Customer 1030,Consumer,Worcester,MA,2025-12-04,Email
+1031,Customer 1031,Consumer,Buffalo,NY,2023-02-18,Referral
+1032,Customer 1032,Consumer,Edison,NJ,2025-07-19,Search
+1033,Customer 1033,Consumer,Jersey City,NJ,2024-06-18,Email
+1034,Customer 1034,Small Business,Jersey City,NJ,2024-11-25,Referral
+1035,Customer 1035,Small Business,Stamford,CT,2025-12-06,Email
+1036,Customer 1036,Consumer,Worcester,MA,2023-07-02,Referral
+1037,Customer 1037,Consumer,Boston,MA,2023-11-06,Search
+1038,Customer 1038,Consumer,Hartford,CT,2024-02-09,Direct
+1039,Customer 1039,Consumer,Worcester,MA,2025-09-02,Email
+1040,Customer 1040,Consumer,New York,NY,2025-03-03,Email
+1041,Customer 1041,Consumer,Allentown,PA,2025-11-17,Referral
+1042,Customer 1042,Small Business,New Haven,CT,2025-05-06,Referral
+1043,Customer 1043,Consumer,Worcester,MA,2024-10-06,Email
+1044,Customer 1044,Consumer,Hartford,CT,2024-07-24,Direct
+1045,Customer 1045,Consumer,Newark,NJ,2025-08-12,Email
+1046,Customer 1046,Small Business,Allentown,PA,2023-05-21,Referral
+1047,Customer 1047,Consumer,New Haven,CT,2023-06-25,Email
+1048,Customer 1048,Small Business,New York,NY,2024-08-12,Search
+1049,Customer 1049,Consumer,Boston,MA,2023-05-25,Direct
+1050,Customer 1050,Consumer,Worcester,MA,2023-12-13,Social
+1051,Customer 1051,Consumer,New Haven,CT,2024-11-23,Search
+1052,Customer 1052,Consumer,New Haven,CT,2023-08-28,Social
+1053,Customer 1053,Consumer,Hartford,CT,2024-01-14,Referral
+1054,Customer 1054,Small Business,Stamford,CT,2024-02-18,Search
+1055,Customer 1055,Small Business,Jersey City,NJ,2023-08-08,Direct
+1056,Customer 1056,Consumer,Philadelphia,PA,2023-02-26,Social
+1057,Customer 1057,Consumer,Edison,NJ,2024-10-19,Referral
+1058,Customer 1058,Consumer,Edison,NJ,2025-05-06,Email
+1059,Customer 1059,Consumer,Edison,NJ,2024-12-05,Referral
+1060,Customer 1060,Corporate,Boston,MA,2023-03-18,Referral
+1061,Customer 1061,Corporate,Jersey City,NJ,2024-06-28,Referral
+1062,Customer 1062,Consumer,Allentown,PA,2024-12-23,Referral
+1063,Customer 1063,Small Business,Buffalo,NY,2023-01-26,Social
+1064,Customer 1064,Corporate,Boston,MA,2023-04-17,Search
+1065,Customer 1065,Consumer,Jersey City,NJ,2024-06-02,Referral
+1066,Customer 1066,Consumer,Stamford,CT,2024-09-20,Direct
+1067,Customer 1067,Consumer,Allentown,PA,2023-04-23,Search
+1068,Customer 1068,Small Business,Philadelphia,PA,2023-04-09,Direct
+1069,Customer 1069,Small Business,Stamford,CT,2025-08-21,Search
+1070,Customer 1070,Consumer,Pittsburgh,PA,2024-05-25,Email
+1071,Customer 1071,Consumer,Philadelphia,PA,2023-02-22,Email
+1072,Customer 1072,Small Business,Boston,MA,2025-10-16,Search
+1073,Customer 1073,Consumer,New Haven,CT,2025-04-02,Social
+1074,Customer 1074,Consumer,Stamford,CT,2025-08-21,Referral
+1075,Customer 1075,Consumer,Allentown,PA,2024-12-22,Email
+1076,Customer 1076,Consumer,Springfield,MA,2025-11-27,Social
+1077,Customer 1077,Consumer,Hartford,CT,2024-04-10,Referral
+1078,Customer 1078,Consumer,Worcester,MA,2023-09-13,Direct
+1079,Customer 1079,Consumer,Albany,NY,2025-06-04,Search
+1080,Customer 1080,Consumer,Hartford,CT,2024-01-12,Direct
+1081,Customer 1081,Small Business,Philadelphia,PA,2024-03-31,Direct
+1082,Customer 1082,Small Business,Buffalo,NY,2025-01-21,Social
+1083,Customer 1083,Corporate,Jersey City,NJ,2023-06-07,Search
+1084,Customer 1084,Consumer,Pittsburgh,PA,2024-11-04,Search
+1085,Customer 1085,Consumer,New Haven,CT,2025-10-21,Search
+1086,Customer 1086,Consumer,Worcester,MA,2023-12-03,Direct
+1087,Customer 1087,Corporate,Rochester,NY,2023-04-20,Search
+1088,Customer 1088,Small Business,Boston,MA,2025-10-25,Search
+1089,Customer 1089,Consumer,Worcester,MA,2023-11-13,Search
+1090,Customer 1090,Small Business,Edison,NJ,2025-06-16,Social
+1091,Customer 1091,Consumer,Edison,NJ,2024-06-14,Search
+1092,Customer 1092,Consumer,Hartford,CT,2025-11-17,Email
+1093,Customer 1093,Small Business,New York,NY,2024-11-27,Search
+1094,Customer 1094,Consumer,Edison,NJ,2024-06-07,Search
+1095,Customer 1095,Small Business,Edison,NJ,2023-12-25,Search
+1096,Customer 1096,Small Business,Springfield,MA,2023-08-13,Direct
+1097,Customer 1097,Corporate,Jersey City,NJ,2025-05-19,Email
+1098,Customer 1098,Small Business,Hartford,CT,2025-06-25,Email
+1099,Customer 1099,Consumer,Springfield,MA,2025-04-30,Social
+1100,Customer 1100,Corporate,Edison,NJ,2024-03-19,Referral
+1101,Customer 1101,Corporate,New Haven,CT,2024-05-17,Search
+1102,Customer 1102,Consumer,Jersey City,NJ,2024-12-31,Referral
+1103,Customer 1103,Consumer,Philadelphia,PA,2024-03-23,Search
+1104,Customer 1104,Consumer,Edison,NJ,2024-10-08,Referral
+1105,Customer 1105,Small Business,Jersey City,NJ,2025-09-09,Direct
+1106,Customer 1106,Consumer,Stamford,CT,2024-07-21,Search
+1107,Customer 1107,Consumer,New Haven,CT,2025-11-08,Search
+1108,Customer 1108,Consumer,Newark,NJ,2024-12-21,Email
+1109,Customer 1109,Small Business,Hartford,CT,2024-12-26,Referral
+1110,Customer 1110,Consumer,Allentown,PA,2025-03-13,Social
+1111,Customer 1111,Consumer,Springfield,MA,2023-01-14,Social
+1112,Customer 1112,Corporate,Allentown,PA,2025-04-02,Direct
+1113,Customer 1113,Corporate,Philadelphia,PA,2023-01-09,Search
+1114,Customer 1114,Small Business,Allentown,PA,2025-03-27,Direct
+1115,Customer 1115,Consumer,Springfield,MA,2024-03-25,Search
+1116,Customer 1116,Consumer,Springfield,MA,2025-04-04,Referral
+1117,Customer 1117,Consumer,Buffalo,NY,2023-02-24,Social
+1118,Customer 1118,Consumer,Stamford,CT,2024-07-16,Email
+1119,Customer 1119,Small Business,Allentown,PA,2025-12-25,Referral
+1120,Customer 1120,Consumer,Hartford,CT,2024-11-12,Direct
+1121,Customer 1121,Consumer,Springfield,MA,2024-06-17,Social
+1122,Customer 1122,Consumer,Rochester,NY,2023-01-25,Referral
+1123,Customer 1123,Corporate,Pittsburgh,PA,2023-11-25,Social
+1124,Customer 1124,Consumer,New York,NY,2024-01-31,Search
+1125,Customer 1125,Consumer,Jersey City,NJ,2024-04-11,Social
+1126,Customer 1126,Corporate,Philadelphia,PA,2023-08-08,Direct
+1127,Customer 1127,Consumer,Boston,MA,2023-11-01,Search
+1128,Customer 1128,Consumer,Albany,NY,2025-03-01,Search
+1129,Customer 1129,Consumer,Boston,MA,2024-09-09,Email
+1130,Customer 1130,Consumer,Newark,NJ,2023-03-21,Search
+1131,Customer 1131,Consumer,Albany,NY,2023-11-28,Search
+1132,Customer 1132,Consumer,Worcester,MA,2024-02-10,Social
+1133,Customer 1133,Consumer,Pittsburgh,PA,2025-04-17,Search
+1134,Customer 1134,Consumer,Hartford,CT,2023-12-25,Search
+1135,Customer 1135,Consumer,Allentown,PA,2023-05-01,Direct
+1136,Customer 1136,Consumer,Albany,NY,2023-01-29,Email
+1137,Customer 1137,Consumer,Springfield,MA,2024-11-21,Direct
+1138,Customer 1138,Consumer,Newark,NJ,2025-11-23,Search
+1139,Customer 1139,Consumer,Hartford,CT,2023-01-10,Direct
+1140,Customer 1140,Consumer,Rochester,NY,2025-04-28,Search
+1141,Customer 1141,Consumer,Worcester,MA,2025-04-17,Social
+1142,Customer 1142,Consumer,Springfield,MA,2023-11-27,Social
+1143,Customer 1143,Small Business,Jersey City,NJ,2024-03-08,Direct
+1144,Customer 1144,Consumer,Rochester,NY,2024-10-13,Direct
+1145,Customer 1145,Consumer,Allentown,PA,2024-11-20,Direct
+1146,Customer 1146,Consumer,Stamford,CT,2023-06-19,Email
+1147,Customer 1147,Consumer,Jersey City,NJ,2023-06-19,Referral
+1148,Customer 1148,Consumer,Springfield,MA,2025-05-25,Email
+1149,Customer 1149,Consumer,Buffalo,NY,2023-07-30,Email
+1150,Customer 1150,Small Business,Worcester,MA,2025-06-23,Referral
+1151,Customer 1151,Consumer,Albany,NY,2025-01-24,Social
+1152,Customer 1152,Consumer,Philadelphia,PA,2023-05-14,Referral
+1153,Customer 1153,Corporate,Philadelphia,PA,2025-11-06,Direct
+1154,Customer 1154,Consumer,New Haven,CT,2024-07-22,Referral
+1155,Customer 1155,Corporate,New Haven,CT,2025-08-26,Email
+1156,Customer 1156,Consumer,Edison,NJ,2024-08-27,Direct
+1157,Customer 1157,Small Business,Jersey City,NJ,2025-02-10,Referral
+1158,Customer 1158,Consumer,Boston,MA,2025-06-29,Email
+1159,Customer 1159,Consumer,New York,NY,2024-03-17,Social
+1160,Customer 1160,Small Business,Rochester,NY,2024-12-03,Direct
+1161,Customer 1161,Consumer,Newark,NJ,2023-09-03,Direct
+1162,Customer 1162,Consumer,Pittsburgh,PA,2023-12-03,Search
+1163,Customer 1163,Consumer,Hartford,CT,2024-05-27,Email
+1164,Customer 1164,Corporate,Newark,NJ,2024-09-10,Email
+1165,Customer 1165,Consumer,New Haven,CT,2025-06-27,Social
+1166,Customer 1166,Small Business,Stamford,CT,2023-05-04,Search
+1167,Customer 1167,Corporate,Stamford,CT,2025-12-21,Referral
+1168,Customer 1168,Consumer,Edison,NJ,2023-09-03,Social
+1169,Customer 1169,Consumer,Newark,NJ,2025-08-21,Referral
+1170,Customer 1170,Consumer,Worcester,MA,2023-07-22,Direct
+1171,Customer 1171,Small Business,Philadelphia,PA,2024-12-03,Referral
+1172,Customer 1172,Consumer,Hartford,CT,2023-10-15,Referral
+1173,Customer 1173,Consumer,Pittsburgh,PA,2023-12-31,Email
+1174,Customer 1174,Consumer,Philadelphia,PA,2025-07-27,Referral
+1175,Customer 1175,Consumer,New Haven,CT,2025-01-26,Referral
+1176,Customer 1176,Consumer,New Haven,CT,2024-02-10,Search
+1177,Customer 1177,Consumer,Philadelphia,PA,2024-01-25,Search
+1178,Customer 1178,Consumer,Boston,MA,2025-05-11,Direct
+1179,Customer 1179,Consumer,Buffalo,NY,2025-11-20,Email
+1180,Customer 1180,Consumer,Edison,NJ,2023-08-15,Email
+1181,Customer 1181,Consumer,Edison,NJ,2023-01-04,Social
+1182,Customer 1182,Small Business,Rochester,NY,2024-10-03,Email
+1183,Customer 1183,Small Business,Worcester,MA,2024-12-17,Direct
+1184,Customer 1184,Consumer,Boston,MA,2023-01-27,Search
+1185,Customer 1185,Corporate,Newark,NJ,2024-03-07,Referral
+1186,Customer 1186,Corporate,Springfield,MA,2025-11-21,Social
+1187,Customer 1187,Consumer,New Haven,CT,2023-02-25,Social
+1188,Customer 1188,Consumer,Rochester,NY,2025-11-19,Referral
+1189,Customer 1189,Corporate,New York,NY,2023-04-22,Direct
+1190,Customer 1190,Consumer,Springfield,MA,2025-02-27,Referral
+1191,Customer 1191,Small Business,Boston,MA,2025-01-05,Referral
+1192,Customer 1192,Consumer,Allentown,PA,2023-10-18,Search
+1193,Customer 1193,Consumer,Newark,NJ,2023-09-13,Direct
+1194,Customer 1194,Consumer,Springfield,MA,2023-07-16,Social
+1195,Customer 1195,Small Business,New Haven,CT,2023-01-31,Search
+1196,Customer 1196,Corporate,Hartford,CT,2024-04-29,Email
+1197,Customer 1197,Small Business,Jersey City,NJ,2024-05-09,Social
+1198,Customer 1198,Consumer,Worcester,MA,2025-05-29,Email
+1199,Customer 1199,Consumer,Edison,NJ,2023-04-11,Direct
+1200,Customer 1200,Consumer,Newark,NJ,2024-01-06,Referral

@@ -1,0 +1,19 @@
+promotion_id,promotion_name,promotion_type,discount_rate,start_date,end_date
+1,Promo 01,Loyalty,0.25,2024-12-17,2025-01-06
+2,Promo 02,Clearance,0.15,2024-07-04,2024-07-26
+3,Promo 03,Loyalty,0.25,2024-05-17,2024-05-31
+4,Promo 04,Bundle,0.1,2024-04-10,2024-04-24
+5,Promo 05,Bundle,0.1,2024-02-04,2024-02-17
+6,Promo 06,Clearance,0.15,2025-07-02,2025-07-30
+7,Promo 07,Percent Off,0.1,2025-05-25,2025-06-12
+8,Promo 08,Clearance,0.25,2025-10-03,2025-10-17
+9,Promo 09,Percent Off,0.15,2025-05-02,2025-05-15
+10,Promo 10,Loyalty,0.15,2024-02-12,2024-02-21
+11,Promo 11,Bundle,0.25,2024-04-30,2024-05-22
+12,Promo 12,Bundle,0.05,2025-06-24,2025-07-29
+13,Promo 13,Bundle,0.2,2025-06-13,2025-07-09
+14,Promo 14,Bundle,0.25,2024-05-09,2024-05-25
+15,Promo 15,Percent Off,0.2,2024-12-08,2024-12-30
+16,Promo 16,Clearance,0.1,2024-12-12,2025-01-13
+17,Promo 17,Clearance,0.2,2024-12-18,2024-12-25
+18,Promo 18,Percent Off,0.2,2024-07-24,2024-08-06
